@@ -45,3 +45,4 @@ tox.chat/download.html
 torproject.org/download/
 Thegentlemen.st
 mega.io
+mega-mega.cloud
