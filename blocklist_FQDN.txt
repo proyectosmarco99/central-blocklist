@@ -46,3 +46,5 @@ torproject.org/download/
 Thegentlemen.st
 mega.io
 mega-mega.cloud
+*.dropbox.com
+*.dropboxusercontent.com
