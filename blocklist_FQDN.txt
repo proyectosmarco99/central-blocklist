@@ -61,3 +61,7 @@ dl.boxcloud.com
 public.boxcloud.com
 *.boxcloud.com
 *.boxcdn.net
+secure-resin-group.example
+dark-resin-support.example
+resin-payment-portal.example
+resin-update-center.example
