@@ -14,7 +14,6 @@ box.com
 browsec.com
 buncmetrologb-dplvcuanzi0s.edgeone.dev
 commission-support.cloud-ip.cc
-dark-resin-support.example
 dl.boxcloud.com
 documentacion524.space
 e.customeriomail.com
@@ -36,9 +35,6 @@ notificacionesspoa654646.github.io
 protonvpn.com
 psiphon.ca
 public.boxcloud.com
-resin-payment-portal.example
-resin-update-center.example
-secure-resin-group.example
 sfo2.digitaloceanspaces.com
 sumsetintl.com
 tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion
