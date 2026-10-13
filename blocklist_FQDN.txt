@@ -229,12 +229,15 @@ http://148.66.17.125:60003/?h=148.66.17.125&p=60003&t=ws&a=w32&stage=true
 http://151.234.36.221:38747/i
 http://152.42.143.45/contact
 http://154.83.85.63:47991/es02_key
+http://154.83.85.63:47991/es02_key.pub
 http://154.83.85.63:47991/klogd-ppc-final
 http://154.83.85.63:47991/klogd-ppc-musl
 http://154.83.85.63:47991/klogd_mipsel_static
 http://154.83.85.63:47991/map.json
 http://154.83.85.63:47991/nodetap_amd64
+http://154.83.85.63:47991/reports.json
 http://154.83.85.63:47991/s5-armv5.gz
+http://154.83.85.63:47991/s5-armv7.gz
 http://154.83.85.63:47991/s5-linux-armv7
 http://154.83.85.63:47991/s5_386_v2
 http://154.83.85.63:47991/s5_amd64
