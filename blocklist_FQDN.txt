@@ -84,6 +84,7 @@ public.boxcloud.com
 roze.click
 ruchameditech.com
 seaopencd.com
+segagamingnexus.cfd
 sfo2.digitaloceanspaces.com
 ski.blacklabelfremont.com
 status.fernhollow.cc
@@ -164,6 +165,7 @@ http://115.48.144.79:58929/i
 http://115.48.152.62:47861/bin.sh
 http://115.49.203.91:54144/i
 http://115.49.3.192:54356/i
+http://115.53.201.33:44073/bin.sh
 http://115.53.201.33:44073/i
 http://115.53.220.37:43200/bin.sh
 http://115.55.236.179:49862/bin.sh
@@ -236,6 +238,7 @@ http://154.83.85.63:47991/s5-armv5.gz
 http://154.83.85.63:47991/s5-linux-armv7
 http://154.83.85.63:47991/s5_386_v2
 http://154.83.85.63:47991/s5_amd64
+http://154.83.85.63:47991/s5_amd64_v2
 http://154.83.85.63:47991/s5_arm64
 http://154.83.85.63:47991/s5_armv5
 http://154.83.85.63:47991/s5_armv5_v2
@@ -245,6 +248,7 @@ http://154.83.85.63:47991/s5_mips_v2
 http://154.83.85.63:47991/s5_mipsle
 http://154.83.85.63:47991/s5_mipsle_v2
 http://154.83.85.63:47991/socks5.pl
+http://154.83.85.63:47991/svc-helper-aarch64
 http://154.83.85.63:47991/svc-helper-arm
 http://154.83.85.63:47991/svc-helper-mipsel
 http://160.176.170.101:36032/i
@@ -267,6 +271,7 @@ http://175.146.242.218:54547/i
 http://175.148.87.105:37309/i
 http://175.149.67.216:46495/bin.sh
 http://175.149.88.179:34166/bin.sh
+http://175.151.180.248:33943/i
 http://175.165.86.250:39489/bin.sh
 http://176.65.139.166:8080/iran.aarch64
 http://176.65.139.166:8080/iran.armv4l
@@ -523,6 +528,7 @@ https://cdn.discordapp.com/attachments/1548811185716068484/1555955351206105219/Z
 https://cdn.discordapp.com/attachments/1548811292536610887/1555955159287201872/67client-CrackedByDexter.jar?backend=b2&ex=6ac8ff2a&is=6ac7adaa&hm=9a556ee8f2a04bb6bf7b6e0d48dd9f70c6c11e1956a9c12895ffd3d2051a835f&
 https://cdn.discordapp.com/attachments/1549548390751272981/1555954988667113542/opsec-1.21.11-CrackedByDexter.jar?backend=b2&ex=6ac8ff01&is=6ac7ad81&hm=495621443a4b2ffeaee152ecdd0e6db99a74077c550043c0f6653cda754039a9&
 https://cdn.discordapp.com/attachments/1554893100869230603/1555954067048763453/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8fe25&is=6ac7aca5&hm=d4e0c6b375fa4a495ca11fbd00bca4c21ac78349d84321e29c5a878b1eca76b0&
+https://cdn.discordapp.com/attachments/1555272738183061585/1558572762866389032/bundle.zip?ex=6acbed7f&is=6aca9bff&hm=cb9d93f21b681de5d2665a2bf65260efd7a33c43dee7c91b58ee1d4354b66967&
 https://cdn.discordapp.com/attachments/1557133169877192734/1557824344401387601/bundle.zip?ex=6ac9347a&is=6ac7e2fa&hm=2a5f26806d9c70a78cb91291d892ac9e9bc378a37ecbe88088c3af02e6eac519&
 https://cdn.discordapp.com/attachments/1557133169877192734/1558848607396823131/bundle.zip?ex=6accee66&is=6acb9ce6&hm=5f09ac9e7e84a62635bc25d32c3cb27f24aa00b0c584fce284d914f93291e8ad&
 https://cdn.discordapp.com/attachments/1558100015321317546/1558450520358654023/bundle_2.zip?ex=6acb7ba6&is=6aca2a26&hm=e00f5777b997bfc71b50b385a548d80bb293af88436931c918351cf9ac471c15&
