@@ -18,6 +18,7 @@ boouwer.lol
 box.com
 brows-check.codes
 browsec.com
+bu6l986k.rihan.store
 buncmetrologb-dplvcuanzi0s.edgeone.dev
 bytekboya.com
 cellexmedia.com
@@ -341,6 +342,7 @@ http://219.157.52.153:49181/i
 http://220.164.23.33:49708/i
 http://220.202.91.248:55001/bin.sh
 http://221.14.84.60:35948/bin.sh
+http://221.15.185.45:51916/i
 http://222.127.254.114:34922/i
 http://222.127.50.108:41701/i
 http://222.127.71.141:36118/bin.sh
@@ -467,6 +469,7 @@ http://45.198.224.34/0upx86
 http://46.236.65.235:49018/bin.sh
 http://5.167.126.229:59635/i
 http://60.18.101.216:57302/i
+http://60.18.212.26:42790/i
 http://60.19.222.107:49101/i
 http://60.214.23.166:51568/i
 http://60.22.51.222:45629/i
