@@ -116,6 +116,7 @@ http://103.125.31.101:38195/i
 http://103.170.217.170/bins/sora.arm6
 http://103.170.217.170/bins/sora.m68k
 http://103.170.217.170/bins/sora.mips
+http://103.170.217.170/bins/sora.sh4
 http://103.170.217.170/bins/sora.x86
 http://103.170.217.170/sora.sh
 http://103.192.204.30:35919/i
@@ -447,6 +448,7 @@ http://45.135.194.96/bins/arm7
 http://45.135.194.96/bins/i686
 http://45.135.194.96/bins/m68k
 http://45.135.194.96/bins/mpsl
+http://45.135.194.96/bins/sh4
 http://45.135.194.96/bins/spc
 http://45.135.194.96/bins/x86
 http://45.135.194.96/bins/x86_64
@@ -480,6 +482,7 @@ http://85.137.53.167:24380/bins/android/akuma_mips
 http://85.137.53.167:24380/bins/android/akuma_mpsl
 http://85.137.53.167:24380/bins/android/akuma_spc
 http://85.137.53.167:24380/bins/dvr/akuma_i686
+http://85.137.53.167:24380/bins/dvr/akuma_m68k
 http://85.137.53.167:24380/bins/dvr/akuma_mips
 http://85.137.53.167:24380/bins/dvr/akuma_mps64
 http://85.137.53.167:24380/bins/dvr/akuma_ppc
