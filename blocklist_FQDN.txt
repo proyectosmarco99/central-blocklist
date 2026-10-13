@@ -62,6 +62,7 @@ kproxy.com
 labpbn.com
 lacek.store
 laurexis.com
+livto.store
 mega-mega.cloud
 mega.io
 mega.nz
@@ -327,6 +328,7 @@ http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
 http://219.155.200.85:53694/i
 http://219.155.237.46:34022/i
+http://219.157.133.197:42036/i
 http://219.157.2.171:43933/i
 http://219.157.52.153:49181/bin.sh
 http://219.157.52.153:49181/i
