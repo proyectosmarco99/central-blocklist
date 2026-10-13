@@ -52,6 +52,7 @@ htm-ail-aut.hstn.me
 iceiy.com
 ifuckurmomjaffacakes.win
 ikovrsps.com
+ikvg8azi.misle.store
 ingpras.one
 ithracars.com
 joker123dragon.space
@@ -78,6 +79,7 @@ psiphon.ca
 public.boxcloud.com
 roze.click
 ruchameditech.com
+seaopencd.com
 sfo2.digitaloceanspaces.com
 stellaspicy.org
 sumsetintl.com
@@ -139,6 +141,7 @@ http://108.137.82.100:9999/frpc_mips
 http://108.137.82.100:9999/frps
 http://108.170.136.155:50255/bin.sh
 http://109.236.46.199:59235/bin.sh
+http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a64&stage=true&k=b41bfef6tcp
 http://112.238.27.166:50497/bin.sh
 http://112.248.103.215:38282/bin.sh
 http://112.248.103.215:38282/i
@@ -164,6 +167,7 @@ http://115.57.239.216:55215/bin.sh
 http://115.58.179.240:40854/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.67:57569/bin.sh
+http://115.63.75.92:34648/i
 http://115.99.114.27:52342/bin.sh
 http://115.99.114.27:52342/i
 http://116.207.223.13:59439/i
@@ -379,6 +383,7 @@ http://27.219.118.7:41917/bin.sh
 http://27.44.145.224:34472/bin.sh
 http://27.44.145.224:34472/i
 http://36.70.140.206:51974/i
+http://37.28.177.69:45953/i
 http://38.253.224.56:8080/hiddenbin/bot.x86_64
 http://38.253.224.56:8080/hiddenbin/x86_64
 http://39.79.73.59:48970/i
