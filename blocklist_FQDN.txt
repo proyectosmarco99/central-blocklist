@@ -85,6 +85,8 @@ roze.click
 ruchameditech.com
 seaopencd.com
 sfo2.digitaloceanspaces.com
+ski.blacklabelfremont.com
+status.fernhollow.cc
 stellaspicy.org
 sumsetintl.com
 surfshark.com
@@ -193,6 +195,7 @@ http://120.84.212.113:55570/i
 http://120.84.212.206:35060/bin.sh
 http://123.10.69.248:36801/i
 http://123.11.0.252:47057/i
+http://123.11.121.151:40677/i
 http://123.12.25.193:37742/bin.sh
 http://123.13.83.188:40560/i
 http://123.13.99.50:60095/bin.sh
@@ -293,6 +296,7 @@ http://176.65.139.41/x86
 http://179.49.213.85:33153/i
 http://180.103.174.195:47196/bin.sh
 http://180.103.174.195:47196/i
+http://180.149.219.213:53810/i
 http://180.190.202.146:57951/bin.sh
 http://180.191.16.24:33057/bin.sh
 http://180.191.16.24:33057/i
@@ -356,6 +360,7 @@ http://222.138.101.246:41384/i
 http://222.138.148.198:59417/bin.sh
 http://222.138.150.84:39894/i
 http://222.138.216.248:49409/i
+http://222.139.67.114:59134/bin.sh
 http://222.141.133.202:47343/i
 http://222.141.142.185:60846/i
 http://222.141.40.236:50078/bin.sh
@@ -447,6 +452,7 @@ http://45.135.194.116/i686
 http://45.135.194.116/m68k
 http://45.135.194.116/mips
 http://45.135.194.116/mipsel
+http://45.135.194.116/powerpc
 http://45.135.194.116/x86_64
 http://45.135.194.96/bins/arm
 http://45.135.194.96/bins/arm5
