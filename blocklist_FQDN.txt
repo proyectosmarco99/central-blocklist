@@ -440,6 +440,7 @@ http://45.135.194.116/mipsel
 http://45.135.194.116/x86_64
 http://45.135.194.96/bins/arm
 http://45.135.194.96/bins/arm5
+http://45.135.194.96/bins/arm6
 http://45.135.194.96/bins/arm7
 http://45.135.194.96/bins/i686
 http://45.135.194.96/bins/m68k
@@ -484,6 +485,7 @@ http://85.137.53.167:24380/bins/dvr/akuma_riscv32
 http://85.137.53.167:24380/bins/dvr/akuma_riscv64
 http://85.137.53.167:24380/bins/dvr/akuma_x64
 http://85.137.53.167:24380/bins/telnet/akuma_x64
+http://85.185.55.80:56473/bin.sh
 http://89.43.223.227:37974/i
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
 http://94.154.43.26/main_sh4
@@ -512,6 +514,7 @@ https://github.com/adapp1t/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/aintsmash/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/archrace/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/bonnylith/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
 https://github.com/hantorrgess/Verox-GTA-Enhanced/raw/HEAD/Verox.exe
 https://github.com/jehhlyk/Fluxus-Roblox-Executor/raw/HEAD/Fluxus%20V7.exe
 https://github.com/l3mmn1ia/Temp-Spoofer-LifeTime/raw/HEAD/TempSpoofer.exe
