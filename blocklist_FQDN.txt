@@ -160,6 +160,7 @@ http://115.57.239.216:55215/bin.sh
 http://115.58.179.240:40854/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.67:57569/bin.sh
+http://115.99.114.27:52342/bin.sh
 http://115.99.114.27:52342/i
 http://116.207.223.13:59439/i
 http://117.245.138.57:51324/i
@@ -249,6 +250,7 @@ http://175.149.67.216:46495/bin.sh
 http://175.149.88.179:34166/bin.sh
 http://175.165.86.250:39489/bin.sh
 http://176.65.139.166:8080/iran.aarch64
+http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.sh4
 http://176.65.139.169/android-arm
 http://176.65.139.169/android-arm64
@@ -269,6 +271,7 @@ http://176.65.139.40/tot
 http://176.65.139.41/armv7-l7
 http://176.65.139.41/lel.sh
 http://176.65.139.41/lol.sh
+http://176.65.139.41/mpsl
 http://176.65.139.41/skid.mips
 http://176.65.139.41/x86
 http://179.49.213.85:33153/i
@@ -326,6 +329,7 @@ http://222.127.254.114:34922/i
 http://222.127.50.108:41701/i
 http://222.127.71.141:36118/bin.sh
 http://222.137.158.220:48972/i
+http://222.137.190.185:54184/bin.sh
 http://222.137.77.98:37558/bin.sh
 http://222.137.85.203:48268/bin.sh
 http://222.137.97.203:53364/bin.sh
@@ -453,6 +457,7 @@ http://60.24.126.151:45260/bin.sh
 http://61.53.135.191:48339/i
 http://61.53.150.241:45354/i
 http://63.245.153.41:37905/i
+http://78.187.104.169:35406/i
 http://78.38.120.12:33332/i
 http://85.12.205.35:51317/i
 http://85.137.53.167:24380/bins/android/akuma_arc
@@ -523,6 +528,7 @@ https://osbot.net/OSBot.jar
 https://osmb.net/OSMB.jar
 https://pragmaticme1k.cyou/
 https://pragmaticwsg1st.world/
+https://rough-truth-e072.publicftpresend.workers.dev/gemgvdpeix
 https://rupiahmahjong2.space/
 https://rxb.immortales.fun/DivX.zip
 https://simplex.chat/downloads/
@@ -536,4 +542,3 @@ https://tronzadorasnng.com/img_010548.png
 https://www.eyqw474.com/11load
 https://x.com/TheGentlemen26
 https://xwezrnmm0tf1vd3llbdwl.beer/
-torproject.org
