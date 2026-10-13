@@ -73,6 +73,8 @@ natsav.com
 ninamedia.uk
 nordvpn.com
 notificacionesspoa654646.github.io
+nr.333vip.org
+nr.3toto.com
 peykanrapkon.com
 professorpaulomoraes.com
 protonvpn.com
@@ -147,6 +149,7 @@ http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a64&stage=true&k=b41
 http://112.238.27.166:50497/bin.sh
 http://112.248.103.215:38282/bin.sh
 http://112.248.103.215:38282/i
+http://113.230.23.74:47203/bin.sh
 http://113.230.23.74:47203/i
 http://113.236.36.200:50471/bin.sh
 http://113.236.36.200:50471/i
@@ -169,6 +172,7 @@ http://115.57.239.216:55215/bin.sh
 http://115.58.179.240:40854/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.67:57569/bin.sh
+http://115.63.14.84:51614/i
 http://115.63.75.92:34648/i
 http://115.99.114.27:52342/bin.sh
 http://115.99.114.27:52342/i
@@ -189,6 +193,7 @@ http://120.84.212.206:35060/bin.sh
 http://123.10.69.248:36801/i
 http://123.11.0.252:47057/i
 http://123.12.25.193:37742/bin.sh
+http://123.13.83.188:40560/i
 http://123.13.99.50:60095/bin.sh
 http://123.189.176.51:48431/bin.sh
 http://123.5.14.37:35948/i
@@ -481,6 +486,8 @@ http://85.137.53.167:24380/bins/android/akuma_m68k
 http://85.137.53.167:24380/bins/android/akuma_mips
 http://85.137.53.167:24380/bins/android/akuma_mpsl
 http://85.137.53.167:24380/bins/android/akuma_spc
+http://85.137.53.167:24380/bins/dvr/akuma_arm64
+http://85.137.53.167:24380/bins/dvr/akuma_arm7
 http://85.137.53.167:24380/bins/dvr/akuma_i686
 http://85.137.53.167:24380/bins/dvr/akuma_m68k
 http://85.137.53.167:24380/bins/dvr/akuma_mips
