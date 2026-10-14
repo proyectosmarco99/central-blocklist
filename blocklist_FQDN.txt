@@ -8,6 +8,7 @@
 2in-sharepoint.com
 2ti34h1lzcapw2f3rt8mfs.beer
 67sixcebeh.surf
+7wm8zvijixjvah2obebyh.beer
 8jdjpwka.baby
 account.box.com
 aeyibtnr.com
@@ -44,6 +45,7 @@ dominiaband.com
 e.customeriomail.com
 econuco.com
 ekayzone.co.za
+elbaaz.com
 electronic72.pro
 espace-zigzag.ch
 expressvpn.com
@@ -72,11 +74,13 @@ ingpras.one
 ithracars.com
 j9af4sr.guru
 joker123dragon.space
+jp168amp-super.com
 kblaa.com
 kd06s98zp58kxcst0zywt9.beer
 kproxy.com
 labpbn.com
 lacek.store
+lapantaleteria.com
 laurexis.com
 livto.store
 mawos.store
@@ -104,9 +108,11 @@ professorpaulomoraes.com
 protonvpn.com
 psiphon.ca
 public.boxcloud.com
+rickowenwear.com
 royalxcasino.zone
 roze.click
 ruchameditech.com
+saferyalla.com
 seaopencd.com
 segagamingnexus.cfd
 sfo2.digitaloceanspaces.com
@@ -142,6 +148,7 @@ worldgo.online
 www.bk8casinothai.com
 xo98poker.com
 xya.supercrone.cc
+yogitaelegantbeauty.com
 zenmate.com
 zeus773jpe.online
 http://101.23.127.18:59328/bin.sh
@@ -157,6 +164,7 @@ http://103.170.217.170/bins/sora.sh4
 http://103.170.217.170/bins/sora.x86
 http://103.170.217.170/sora.sh
 http://103.192.204.30:35919/i
+http://103.238.235.250:9999/lol.sh
 http://103.238.235.250:9999/wj0s.arm7
 http://103.238.235.250:9999/wj0s.i686
 http://103.31.103.204:40803/bin.sh
@@ -193,6 +201,7 @@ http://113.236.36.200:50471/i
 http://113.53.69.164:57025/i
 http://114.198.242.174:39288/i
 http://115.206.110.121:47845/i
+http://115.207.84.249:33401/i
 http://115.48.144.79:58929/bin.sh
 http://115.48.144.79:58929/i
 http://115.48.152.62:47861/bin.sh
@@ -206,6 +215,7 @@ http://115.55.32.63:55594/i
 http://115.55.55.172:50045/i
 http://115.55.7.254:57618/bin.sh
 http://115.56.160.116:50789/bin.sh
+http://115.56.181.20:55348/i
 http://115.57.239.216:55215/bin.sh
 http://115.58.179.240:40854/bin.sh
 http://115.59.228.174:52120/bin.sh
@@ -256,10 +266,12 @@ http://125.46.198.140:35535/bin.sh
 http://125.47.113.29:42844/i
 http://130.0.43.154:57792/bin.sh
 http://130.12.180.212/arm4
+http://130.12.180.212/arm64
 http://130.12.180.212/armhf
 http://130.12.180.212/i686
 http://130.12.180.212/mipsel
 http://130.12.180.212/mipsle
+http://130.12.180.212/powerpc64
 http://130.12.180.212/riscv64
 http://130.12.180.212/x64
 http://130.12.180.212/x86
@@ -268,6 +280,7 @@ http://147.45.116.134/72img_021534.png
 http://148.66.17.125:60003/?h=148.66.17.125&p=60003&t=ws&a=w32&stage=true
 http://151.234.36.221:38747/i
 http://152.42.143.45/contact
+http://154.242.143.151:50387/i
 http://154.83.85.63:47991/chisel-amd64
 http://154.83.85.63:47991/es02_key
 http://154.83.85.63:47991/es02_key.pub
@@ -333,6 +346,7 @@ http://176.65.139.169/bot.arm
 http://176.65.139.169/mips
 http://176.65.139.169/pid.arm6
 http://176.65.139.169/pid.arm8
+http://176.65.139.169/pid.mips
 http://176.65.139.169/pid.ppc
 http://176.65.139.209/bins/i686
 http://176.65.139.231/bins/morte.arm
@@ -362,6 +376,7 @@ http://180.191.16.24:33057/bin.sh
 http://180.191.16.24:33057/i
 http://180.191.49.27:39520/bin.sh
 http://182.112.41.50:41326/i
+http://182.113.191.78:59405/i
 http://182.113.203.175:59417/bin.sh
 http://182.113.203.175:59417/i
 http://182.113.25.83:46080/i
@@ -389,11 +404,13 @@ http://183.35.50.185:40190/i
 http://193.178.158.107/bin/6fb78459bea435c0_remus.exe
 http://193.187.101.209:55899/bin.sh
 http://196.151.248.162:47591/bin.sh
+http://196.189.35.226:43800/i
 http://196.189.68.239:57746/Mozi.a
 http://196.189.96.59:50231/i
 http://196.189.96.59:55280/i
 http://196.190.69.149:39184/i
 http://196.74.47.206:34746/i
+http://2.85.58.246:49503/bin.sh
 http://201.159.91.2:41978/Mozi.m
 http://202.1.26.13:40289/i
 http://203.196.41.11:45206/i
@@ -403,6 +420,7 @@ http://217.60.195.187/st_x86_64
 http://219.155.200.85:53694/i
 http://219.155.237.46:34022/i
 http://219.156.119.243:37129/i
+http://219.156.63.39:37547/bin.sh
 http://219.156.63.39:37547/i
 http://219.157.133.197:42036/i
 http://219.157.2.171:43933/i
@@ -416,6 +434,7 @@ http://221.203.206.182:43811/i
 http://222.127.254.114:34922/i
 http://222.127.50.108:41701/i
 http://222.127.71.141:36118/bin.sh
+http://222.127.76.40:53819/bin.sh
 http://222.137.154.63:48972/i
 http://222.137.158.220:48972/bin.sh
 http://222.137.158.220:48972/i
@@ -432,6 +451,7 @@ http://222.139.67.114:59134/bin.sh
 http://222.141.133.202:47343/i
 http://222.141.142.185:60846/i
 http://222.141.40.236:50078/bin.sh
+http://222.141.97.98:39460/i
 http://222.220.145.39:43434/i
 http://223.10.5.93:34533/i
 http://23.132.164.15/FAST/putty.exe
@@ -564,8 +584,10 @@ http://61.53.135.191:48339/i
 http://61.53.15.189:56888/i
 http://61.53.150.241:45354/i
 http://63.245.153.41:37905/i
+http://64.235.45.196/api.exe
 http://78.187.104.169:35406/i
 http://78.38.120.12:33332/i
+http://85.12.205.35:51317/bin.sh
 http://85.12.205.35:51317/i
 http://85.137.53.167:24380/bins/android/akuma_arc
 http://85.137.53.167:24380/bins/android/akuma_arm7
@@ -592,12 +614,14 @@ http://85.185.55.80:56473/i
 http://89.43.223.227:37974/i
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
 http://94.154.43.26/main_sh4
+http://95.15.69.204:38775/i
 http://fgashub.shop:9932/addresses
 https://172.235.183.120/
 https://217.60.102.185/
 https://7ujni7galhy2l8y6431l.beer/
 https://aoclbl1a7jy7swo9b0kk.beer/
 https://blackiron.co.uk/
+https://briannacorporation.com/cap/Chored.cur
 https://cdn.discordapp.com/attachments/1519428468599951424/1558057878890221588/bundle.zip?ex=6aca0df9&is=6ac8bc79&hm=c778990da8edb87cc9953a1997b9b988223e71f0dfb4c2aba8061880522c9145&
 https://cdn.discordapp.com/attachments/1519428468599951424/1558874277275639873/bundle.zip?ex=6acd064e&is=6acbb4ce&hm=2aaf0e96bd284eb57d633f09755dbe56d43db340569798577b9bc24be9feae55&
 https://cdn.discordapp.com/attachments/1540151072461553724/1558782952987562024/bundle_2.zip?ex=6accb140&is=6acb5fc0&hm=f20958a51ea316ba48d7e2318eba3c39ad98f9af9c223d44fd5c761973af51a0&
@@ -609,6 +633,7 @@ https://cdn.discordapp.com/attachments/1554903458677653595/1558784934804725800/b
 https://cdn.discordapp.com/attachments/1555272738183061585/1558572762866389032/bundle.zip?ex=6acbed7f&is=6aca9bff&hm=cb9d93f21b681de5d2665a2bf65260efd7a33c43dee7c91b58ee1d4354b66967&
 https://cdn.discordapp.com/attachments/1557133169877192734/1557824344401387601/bundle.zip?ex=6ac9347a&is=6ac7e2fa&hm=2a5f26806d9c70a78cb91291d892ac9e9bc378a37ecbe88088c3af02e6eac519&
 https://cdn.discordapp.com/attachments/1557133169877192734/1558848607396823131/bundle.zip?ex=6accee66&is=6acb9ce6&hm=5f09ac9e7e84a62635bc25d32c3cb27f24aa00b0c584fce284d914f93291e8ad&
+https://cdn.discordapp.com/attachments/1557944891575762984/1557945395277996133/bundle_2.zip?ex=6ac9a537&is=6ac853b7&hm=6437d45cffc49ae16bc731d5aa1a09e76f71e006877171928c5be1ab33ccb6a5&
 https://cdn.discordapp.com/attachments/1558100015321317546/1558450520358654023/bundle_2.zip?ex=6acb7ba6&is=6aca2a26&hm=e00f5777b997bfc71b50b385a548d80bb293af88436931c918351cf9ac471c15&
 https://cdn.discordapp.com/attachments/1558894388057350258/1558894459301658634/bundle.zip?ex=6acd1919&is=6acbc799&hm=e8e16ac6c1a60f6e2550ce451e8b078ddf3a0d35edd62abe8bd6d8c5440ded0e&
 https://drive.google.com/uc?export=download&id=14oEkhhftO_xx6X0Db-qpZwUl_arXfhIO
@@ -616,6 +641,7 @@ https://fh.4toto.net/
 https://fil.immortales.life/Divine.zip
 https://filezilla.cc/serverpython86.exe
 https://fotoschop.cl/Smmrgie.txt
+https://github.com/Nine23423423/Reload1/raw/refs/heads/main/RtkAudUService.exe
 https://github.com/adapp1t/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/aintsmash/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/akkcoc521-blip/honeyrobloxx/releases/download/downladoa/dsalkasdkadl.zip
@@ -665,3 +691,4 @@ https://tronzadorasnng.com/img_010548.png
 https://www.eyqw474.com/11load
 https://x.com/TheGentlemen26
 https://xwezrnmm0tf1vd3llbdwl.beer/
+https://ysense.pro/
