@@ -768,6 +768,7 @@ https://github.com/archrace/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/bonnylith/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/deelcis/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
+https://github.com/feedlixs/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/hantorrgess/Verox-GTA-Enhanced/raw/HEAD/Verox.exe
 https://github.com/iceclerryk/redENGINE-FiveM/raw/HEAD/Loader.exe
 https://github.com/jehhlyk/Fluxus-Roblox-Executor/raw/HEAD/Fluxus%20V7.exe
