@@ -66,6 +66,7 @@ fifaworldcup-2026.top
 fling-trainer.com
 foipwjgt.paketmalam.vip
 fri-dod-01.cfd
+gabrielleaesthetics.com
 garrikwolfe.com
 glamping-utopie.com
 gmtn.net.id
@@ -501,6 +502,7 @@ http://201.159.91.2:41978/i
 http://202.1.26.13:40289/i
 http://202.110.28.103:33133/i
 http://203.196.41.11:45206/i
+http://210.208.110.21:53906/i
 http://210.208.111.36:35182/i
 http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
@@ -625,6 +627,7 @@ http://42.237.253.32:32917/bin.sh
 http://42.238.143.132:56801/i
 http://42.238.168.152:41810/i
 http://42.238.170.69:41810/i
+http://42.239.189.168:41173/i
 http://42.239.255.151:32965/i
 http://42.4.127.9:48434/bin.sh
 http://42.52.192.164:49983/bin.sh
