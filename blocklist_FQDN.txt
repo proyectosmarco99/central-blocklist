@@ -6,6 +6,7 @@
 *.mega.co.nz
 0222894ms09-secondary.z9.web.core.windows.net
 2in-sharepoint.com
+2ti34h1lzcapw2f3rt8mfs.beer
 67sixcebeh.surf
 8jdjpwka.baby
 account.box.com
@@ -29,6 +30,7 @@ champw.com
 cheapproxyservers.com
 check-pdf-image.com
 checkingdrive-october.com
+circular-st.ru
 commission-support.cloud-ip.cc
 dataset58.com
 demoslotgac1r.space
@@ -44,6 +46,7 @@ electronic72.pro
 espace-zigzag.ch
 expressvpn.com
 fifaworldcup-2026.top
+fling-trainer.com
 fri-dod-01.cfd
 glamping-utopie.com
 gmtn.net.id
@@ -73,6 +76,8 @@ labpbn.com
 lacek.store
 laurexis.com
 livto.store
+mawos.store
+maxwinquez.top
 mega-mega.cloud
 mega.io
 mega.nz
@@ -91,6 +96,7 @@ osbot.net
 parlouredshop.com
 peykanrapkon.com
 pobruog.wiki
+prod-static.nascarnash.com
 professorpaulomoraes.com
 protonvpn.com
 psiphon.ca
@@ -102,8 +108,10 @@ seaopencd.com
 segagamingnexus.cfd
 sfo2.digitaloceanspaces.com
 ski.blacklabelfremont.com
+static-host119-73-101-199.link.net.pk
 status.fernhollow.cc
 stellaspicy.org
+stnnik2.sa-sharepoint.com
 sumsetintl.com
 surfshark.com
 tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion
@@ -127,6 +135,8 @@ wesolveit.pt
 wibuku.org
 windscribe.com
 wmk77.com
+worldgo.online
+www.bk8casinothai.com
 xo98poker.com
 zenmate.com
 zeus773jpe.online
@@ -223,6 +233,7 @@ http://123.11.121.151:40677/i
 http://123.12.25.193:37742/bin.sh
 http://123.13.83.188:40560/i
 http://123.13.99.50:60095/bin.sh
+http://123.14.152.127:46530/bin.sh
 http://123.189.176.51:48431/bin.sh
 http://123.4.178.130:57978/bin.sh
 http://123.5.14.37:35948/i
@@ -265,6 +276,7 @@ http://154.83.85.63:47991/reports.json
 http://154.83.85.63:47991/s5-armv5.gz
 http://154.83.85.63:47991/s5-armv7.gz
 http://154.83.85.63:47991/s5-linux-armv7
+http://154.83.85.63:47991/s5_386
 http://154.83.85.63:47991/s5_386_v2
 http://154.83.85.63:47991/s5_amd64
 http://154.83.85.63:47991/s5_amd64_v2
@@ -282,6 +294,7 @@ http://154.83.85.63:47991/svc-helper-arm
 http://154.83.85.63:47991/svc-helper-mipsel
 http://157.66.146.183:57014/i
 http://160.176.170.101:36032/i
+http://164.163.25.203:58731/i
 http://165.98.243.83:33127/i
 http://167.250.158.32:43493/bin.sh
 http://167.250.158.32:43493/i
@@ -309,9 +322,11 @@ http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.sh4
 http://176.65.139.169/android-arm
 http://176.65.139.169/android-arm64
+http://176.65.139.169/arm5
 http://176.65.139.169/bot.arm
 http://176.65.139.169/mips
 http://176.65.139.169/pid.arm6
+http://176.65.139.169/pid.arm8
 http://176.65.139.169/pid.ppc
 http://176.65.139.209/bins/i686
 http://176.65.139.231/bins/morte.arm
@@ -347,12 +362,14 @@ http://182.114.35.23:43016/i
 http://182.116.115.77:46115/i
 http://182.116.122.168:50444/i
 http://182.116.34.137:46080/bin.sh
+http://182.117.146.213:35245/i
 http://182.117.151.7:55978/i
 http://182.117.163.106:60149/bin.sh
 http://182.117.31.73:59387/bin.sh
 http://182.117.76.135:52817/i
 http://182.117.79.167:52750/bin.sh
 http://182.119.186.189:39523/bin.sh
+http://182.120.3.227:56821/i
 http://182.121.221.214:42289/i
 http://182.123.192.144:51851/i
 http://182.124.205.27:51100/i
@@ -379,6 +396,7 @@ http://217.60.195.187/st_x86_64
 http://219.155.200.85:53694/i
 http://219.155.237.46:34022/i
 http://219.156.119.243:37129/i
+http://219.156.63.39:37547/i
 http://219.157.133.197:42036/i
 http://219.157.2.171:43933/i
 http://219.157.52.153:49181/bin.sh
@@ -391,6 +409,8 @@ http://221.203.206.182:43811/i
 http://222.127.254.114:34922/i
 http://222.127.50.108:41701/i
 http://222.127.71.141:36118/bin.sh
+http://222.137.154.63:48972/i
+http://222.137.158.220:48972/bin.sh
 http://222.137.158.220:48972/i
 http://222.137.190.185:54184/bin.sh
 http://222.137.77.98:37558/bin.sh
@@ -479,8 +499,10 @@ http://42.235.92.138:40407/i
 http://42.237.2.4:50883/bin.sh
 http://42.237.2.4:50883/i
 http://42.237.253.32:32917/bin.sh
+http://42.238.143.132:56801/i
 http://42.238.168.152:41810/i
 http://42.238.170.69:41810/i
+http://42.52.192.164:49983/bin.sh
 http://42.52.20.56:49690/i
 http://42.55.6.11:49652/i
 http://42.57.164.151:60901/i
@@ -491,6 +513,7 @@ http://42.86.53.125:43824/i
 http://42.87.210.20:57683/i
 http://45.135.194.116/armv4l
 http://45.135.194.116/armv5l
+http://45.135.194.116/armv6l
 http://45.135.194.116/armv7l
 http://45.135.194.116/i686
 http://45.135.194.116/m68k
@@ -517,7 +540,9 @@ http://45.198.224.34/0upsh4
 http://45.198.224.34/0upx64
 http://45.198.224.34/0upx86
 http://46.236.65.235:49018/bin.sh
+http://47.102.102.45:9006/linux
 http://5.167.126.229:59635/i
+http://59.58.106.125:59098/bin.sh
 http://60.18.101.216:57302/i
 http://60.18.212.26:42790/i
 http://60.19.222.107:49101/i
@@ -539,6 +564,7 @@ http://85.137.53.167:24380/bins/android/akuma_i486
 http://85.137.53.167:24380/bins/android/akuma_m68k
 http://85.137.53.167:24380/bins/android/akuma_mips
 http://85.137.53.167:24380/bins/android/akuma_mpsl
+http://85.137.53.167:24380/bins/android/akuma_riscv64
 http://85.137.53.167:24380/bins/android/akuma_spc
 http://85.137.53.167:24380/bins/dvr/akuma_arm64
 http://85.137.53.167:24380/bins/dvr/akuma_arm7
@@ -552,6 +578,7 @@ http://85.137.53.167:24380/bins/dvr/akuma_riscv64
 http://85.137.53.167:24380/bins/dvr/akuma_x64
 http://85.137.53.167:24380/bins/telnet/akuma_x64
 http://85.185.55.80:56473/bin.sh
+http://85.185.55.80:56473/i
 http://89.43.223.227:37974/i
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
 http://94.154.43.26/main_sh4
@@ -575,11 +602,13 @@ https://cdn.discordapp.com/attachments/1557133169877192734/1558848607396823131/b
 https://cdn.discordapp.com/attachments/1558100015321317546/1558450520358654023/bundle_2.zip?ex=6acb7ba6&is=6aca2a26&hm=e00f5777b997bfc71b50b385a548d80bb293af88436931c918351cf9ac471c15&
 https://cdn.discordapp.com/attachments/1558894388057350258/1558894459301658634/bundle.zip?ex=6acd1919&is=6acbc799&hm=e8e16ac6c1a60f6e2550ce451e8b078ddf3a0d35edd62abe8bd6d8c5440ded0e&
 https://drive.google.com/uc?export=download&id=14oEkhhftO_xx6X0Db-qpZwUl_arXfhIO
+https://fh.4toto.net/
 https://fil.immortales.life/Divine.zip
 https://filezilla.cc/serverpython86.exe
 https://fotoschop.cl/Smmrgie.txt
 https://github.com/adapp1t/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/aintsmash/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/akkcoc521-blip/honeyrobloxx/releases/download/downladoa/dsalkasdkadl.zip
 https://github.com/archrace/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/bonnylith/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
