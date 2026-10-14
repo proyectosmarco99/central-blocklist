@@ -69,6 +69,8 @@ hstn.me
 htm-ail-aut.hstn.me
 iceiy.com
 ifuckurmomjaffacakes.win
+ik.333vip.org
+ik.3toto.com
 ikovrsps.com
 ikvg8azi.misle.store
 ingpras.one
@@ -99,6 +101,7 @@ nordvpn.com
 notificacionesspoa654646.github.io
 nr.333vip.org
 nr.3toto.com
+oi41pfmg.saok.store
 okekjaiw.click
 osbot.net
 parlouredshop.com
@@ -109,6 +112,7 @@ professorpaulomoraes.com
 protonvpn.com
 psiphon.ca
 public.boxcloud.com
+restaurant.moovent.ch
 rickowenwear.com
 royalxcasino.zone
 roze.click
@@ -191,10 +195,12 @@ http://108.137.82.100:9999/frps
 http://108.170.136.155:50255/bin.sh
 http://109.236.46.199:59235/bin.sh
 http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a64&stage=true&k=b41bfef6tcp
+http://112.229.207.15:48465/i
 http://112.238.27.166:50497/bin.sh
 http://112.248.1.204:46560/i
 http://112.248.103.215:38282/bin.sh
 http://112.248.103.215:38282/i
+http://113.206.97.32:54393/i
 http://113.230.23.74:47203/bin.sh
 http://113.230.23.74:47203/i
 http://113.236.36.200:50471/bin.sh
@@ -372,6 +378,7 @@ http://179.49.213.85:33153/i
 http://180.103.174.195:47196/bin.sh
 http://180.103.174.195:47196/i
 http://180.149.219.213:53810/i
+http://180.190.188.110:51985/i
 http://180.190.202.146:57951/bin.sh
 http://180.191.16.24:33057/bin.sh
 http://180.191.16.24:33057/i
@@ -452,6 +459,7 @@ http://222.139.67.114:59134/bin.sh
 http://222.141.133.202:47343/i
 http://222.141.142.185:60846/i
 http://222.141.40.236:50078/bin.sh
+http://222.141.73.146:57830/i
 http://222.141.97.98:39460/i
 http://222.220.145.39:43434/i
 http://223.10.5.93:34533/i
@@ -489,6 +497,7 @@ http://27.44.145.224:34472/bin.sh
 http://27.44.145.224:34472/i
 http://36.70.140.206:51974/i
 http://37.28.177.69:45953/i
+http://38.253.224.56:8080/hiddenbin/arm7
 http://38.253.224.56:8080/hiddenbin/bot.x86_64
 http://38.253.224.56:8080/hiddenbin/x86_64
 http://39.79.73.59:48970/i
@@ -669,6 +678,7 @@ https://goobaaclient.com/downloads/GoobaaClient.1.21.11.jar
 https://hardwood-studio-obviously-briefing.trycloudflare.com/download/winhost
 https://hp.3toto.com/
 https://jqpss3yzn9n3mqqkukhfs.beer/
+https://mc-modhub.vercel.app/mods/dupemod-26.x.jar
 https://micstndasap.world/img_191633.png
 https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
 https://nr.333vip.org/
