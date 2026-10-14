@@ -50,6 +50,7 @@ dl.boxcloud.com
 documentacion524.space
 dominiaband.com
 e.customeriomail.com
+eckon.ro
 econuco.com
 ekayzone.co.za
 elbaaz.com
@@ -131,6 +132,7 @@ royalxcasino.zone
 roze.click
 ruchameditech.com
 saferyalla.com
+script-six-tawny.vercel.app
 seaopencd.com
 segagamingnexus.cfd
 sfo2.digitaloceanspaces.com
@@ -273,6 +275,7 @@ http://123.11.0.252:47057/i
 http://123.11.121.151:40677/i
 http://123.11.220.74:33455/bin.sh
 http://123.12.25.193:37742/bin.sh
+http://123.12.25.193:37742/i
 http://123.13.83.188:40560/i
 http://123.13.99.50:60095/bin.sh
 http://123.13.99.50:60095/i
@@ -400,8 +403,10 @@ http://176.65.139.41/lel.sh
 http://176.65.139.41/lol.sh
 http://176.65.139.41/mpsl
 http://176.65.139.41/skid.arm
+http://176.65.139.41/skid.arm5
 http://176.65.139.41/skid.arm7
 http://176.65.139.41/skid.mips
+http://176.65.139.41/skid.mpsl
 http://176.65.139.41/x64s-l7
 http://176.65.139.41/x86
 http://179.49.213.85:33153/i
@@ -428,6 +433,7 @@ http://182.117.146.213:35245/i
 http://182.117.151.7:55978/bin.sh
 http://182.117.151.7:55978/i
 http://182.117.163.106:60149/bin.sh
+http://182.117.163.106:60149/i
 http://182.117.31.73:59387/bin.sh
 http://182.117.76.135:52817/i
 http://182.117.79.167:52750/bin.sh
