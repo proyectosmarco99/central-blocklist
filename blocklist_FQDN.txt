@@ -24,7 +24,10 @@ bytekboya.com
 cellexmedia.com
 champw.com
 cheapproxyservers.com
+check-pdf-image.com
+checkingdrive-october.com
 commission-support.cloud-ip.cc
+dataset58.com
 demoslotgac1r.space
 diceybrew.sbs
 divyajotifoundation.in
@@ -34,8 +37,10 @@ dominiaband.com
 e.customeriomail.com
 econuco.com
 ekayzone.co.za
+electronic72.pro
 espace-zigzag.ch
 expressvpn.com
+fifaworldcup-2026.top
 fri-dod-01.cfd
 glamping-utopie.com
 gmtn.net.id
@@ -70,17 +75,21 @@ mega.nz
 menang120.space
 misle.store
 morib.store
+namanami.top
 natsav.com
 ninamedia.uk
 nordvpn.com
 notificacionesspoa654646.github.io
 nr.333vip.org
 nr.3toto.com
+osbot.net
+parlouredshop.com
 peykanrapkon.com
 professorpaulomoraes.com
 protonvpn.com
 psiphon.ca
 public.boxcloud.com
+royalxcasino.zone
 roze.click
 ruchameditech.com
 seaopencd.com
@@ -105,9 +114,11 @@ upload.ent.box.com
 vansbeauty.de
 vebiotic.com
 veled.com.tr
+vg5sgxv.lol
 vpngate.net
 wakanda123king.shop
 wesolveit.pt
+wibuku.org
 windscribe.com
 wmk77.com
 xo98poker.com
@@ -142,6 +153,7 @@ http://104.64.0.199/hiddenbin/Space.sh4
 http://104.64.0.199/hiddenbin/Space.x86_64
 http://105.184.8.241:41871/bin.sh
 http://105.186.68.166:35551/bin.sh
+http://105.226.5.161:48433/bin.sh
 http://108.137.82.100:9999/frpc
 http://108.137.82.100:9999/frpc_arm
 http://108.137.82.100:9999/frpc_linux_arm
@@ -151,6 +163,7 @@ http://108.170.136.155:50255/bin.sh
 http://109.236.46.199:59235/bin.sh
 http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a64&stage=true&k=b41bfef6tcp
 http://112.238.27.166:50497/bin.sh
+http://112.248.1.204:46560/i
 http://112.248.103.215:38282/bin.sh
 http://112.248.103.215:38282/i
 http://113.230.23.74:47203/bin.sh
@@ -175,12 +188,15 @@ http://115.55.7.254:57618/bin.sh
 http://115.56.160.116:50789/bin.sh
 http://115.57.239.216:55215/bin.sh
 http://115.58.179.240:40854/bin.sh
+http://115.59.228.174:52120/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.67:57569/bin.sh
 http://115.63.14.84:51614/i
 http://115.63.75.92:34648/i
 http://115.99.114.27:52342/bin.sh
 http://115.99.114.27:52342/i
+http://116.139.172.245:54006/i
+http://116.140.7.177:35911/bin.sh
 http://116.207.223.13:59439/i
 http://117.245.138.57:51324/i
 http://118.253.80.15:35077/bin.sh
@@ -202,12 +218,14 @@ http://123.12.25.193:37742/bin.sh
 http://123.13.83.188:40560/i
 http://123.13.99.50:60095/bin.sh
 http://123.189.176.51:48431/bin.sh
+http://123.4.178.130:57978/bin.sh
 http://123.5.14.37:35948/i
 http://123.5.172.91:57091/i
 http://123.7.227.193:49853/bin.sh
 http://123.9.203.45:54662/bin.sh
 http://123.9.84.231:39954/i
 http://124.6.169.54:60212/i
+http://125.104.39.108:14081/bin.sh
 http://125.43.34.132:36892/bin.sh
 http://125.44.46.94:50619/bin.sh
 http://125.45.67.66:58929/bin.sh
@@ -219,6 +237,7 @@ http://130.0.43.154:57792/bin.sh
 http://130.12.180.212/arm4
 http://130.12.180.212/armhf
 http://130.12.180.212/i686
+http://130.12.180.212/mipsel
 http://130.12.180.212/mipsle
 http://130.12.180.212/riscv64
 http://130.12.180.212/x64
@@ -254,6 +273,7 @@ http://154.83.85.63:47991/socks5.pl
 http://154.83.85.63:47991/svc-helper-aarch64
 http://154.83.85.63:47991/svc-helper-arm
 http://154.83.85.63:47991/svc-helper-mipsel
+http://157.66.146.183:57014/i
 http://160.176.170.101:36032/i
 http://165.98.243.83:33127/i
 http://167.250.158.32:43493/bin.sh
@@ -274,6 +294,7 @@ http://175.146.242.218:54547/i
 http://175.148.87.105:37309/i
 http://175.149.67.216:46495/bin.sh
 http://175.149.88.179:34166/bin.sh
+http://175.150.255.147:45190/bin.sh
 http://175.151.180.248:33943/i
 http://175.165.86.250:39489/bin.sh
 http://176.65.139.166:8080/iran.aarch64
@@ -283,6 +304,7 @@ http://176.65.139.169/android-arm
 http://176.65.139.169/android-arm64
 http://176.65.139.169/bot.arm
 http://176.65.139.169/mips
+http://176.65.139.169/pid.arm6
 http://176.65.139.169/pid.ppc
 http://176.65.139.231/bins/morte.arm
 http://176.65.139.231/bins/morte.arm5
@@ -324,6 +346,7 @@ http://182.117.76.135:52817/i
 http://182.117.79.167:52750/bin.sh
 http://182.119.186.189:39523/bin.sh
 http://182.121.221.214:42289/i
+http://182.123.192.144:51851/i
 http://182.124.205.27:51100/i
 http://182.127.179.145:57484/bin.sh
 http://182.127.26.104:52057/i
@@ -347,6 +370,7 @@ http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
 http://219.155.200.85:53694/i
 http://219.155.237.46:34022/i
+http://219.156.119.243:37129/i
 http://219.157.133.197:42036/i
 http://219.157.2.171:43933/i
 http://219.157.52.153:49181/bin.sh
@@ -355,6 +379,7 @@ http://220.164.23.33:49708/i
 http://220.202.91.248:55001/bin.sh
 http://221.14.84.60:35948/bin.sh
 http://221.15.185.45:51916/i
+http://221.203.206.182:43811/i
 http://222.127.254.114:34922/i
 http://222.127.50.108:41701/i
 http://222.127.71.141:36118/bin.sh
@@ -428,6 +453,7 @@ http://40.160.135.244:9091/titanjr.sh4
 http://40.160.135.244:9091/titanjr.spc
 http://40.160.135.244:9091/titanjr.x86_32
 http://40.160.135.244:9091/titanjr.x86_64
+http://42.224.11.100:59961/bin.sh
 http://42.224.182.247:59352/i
 http://42.224.199.236:41233/bin.sh
 http://42.224.199.236:41233/i
@@ -437,6 +463,7 @@ http://42.229.175.66:55978/bin.sh
 http://42.230.218.97:45408/i
 http://42.230.38.184:40155/bin.sh
 http://42.231.111.124:60802/bin.sh
+http://42.231.65.187:33162/i
 http://42.233.104.85:36775/bin.sh
 http://42.234.165.238:39954/i
 http://42.235.183.249:58564/bin.sh
@@ -531,6 +558,7 @@ https://cdn.discordapp.com/attachments/1548811185716068484/1555955351206105219/Z
 https://cdn.discordapp.com/attachments/1548811292536610887/1555955159287201872/67client-CrackedByDexter.jar?backend=b2&ex=6ac8ff2a&is=6ac7adaa&hm=9a556ee8f2a04bb6bf7b6e0d48dd9f70c6c11e1956a9c12895ffd3d2051a835f&
 https://cdn.discordapp.com/attachments/1549548390751272981/1555954988667113542/opsec-1.21.11-CrackedByDexter.jar?backend=b2&ex=6ac8ff01&is=6ac7ad81&hm=495621443a4b2ffeaee152ecdd0e6db99a74077c550043c0f6653cda754039a9&
 https://cdn.discordapp.com/attachments/1554893100869230603/1555954067048763453/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8fe25&is=6ac7aca5&hm=d4e0c6b375fa4a495ca11fbd00bca4c21ac78349d84321e29c5a878b1eca76b0&
+https://cdn.discordapp.com/attachments/1554903458677653595/1558784934804725800/bundle_3.zip?ex=6accb319&is=6acb6199&hm=3cc7fdd091847c025b03666b4c269e011bbcb4ab462e51e416d0006915821854&
 https://cdn.discordapp.com/attachments/1555272738183061585/1558572762866389032/bundle.zip?ex=6acbed7f&is=6aca9bff&hm=cb9d93f21b681de5d2665a2bf65260efd7a33c43dee7c91b58ee1d4354b66967&
 https://cdn.discordapp.com/attachments/1557133169877192734/1557824344401387601/bundle.zip?ex=6ac9347a&is=6ac7e2fa&hm=2a5f26806d9c70a78cb91291d892ac9e9bc378a37ecbe88088c3af02e6eac519&
 https://cdn.discordapp.com/attachments/1557133169877192734/1558848607396823131/bundle.zip?ex=6accee66&is=6acb9ce6&hm=5f09ac9e7e84a62635bc25d32c3cb27f24aa00b0c584fce284d914f93291e8ad&
@@ -564,6 +592,7 @@ https://goobaaclient.com/downloads/GoobaaClient.1.21.11.jar
 https://hardwood-studio-obviously-briefing.trycloudflare.com/download/winhost
 https://hp.3toto.com/
 https://jqpss3yzn9n3mqqkukhfs.beer/
+https://micstndasap.world/img_191633.png
 https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
 https://nr.333vip.org/
 https://osbot.net/OSBot.jar
@@ -574,6 +603,7 @@ https://rough-truth-e072.publicftpresend.workers.dev/gemgvdpeix
 https://rupiahmahjong2.space/
 https://rxb.immortales.fun/DivX.zip
 https://simplex.chat/downloads/
+https://situations-clarity-pill-preceding.trycloudflare.com/dl/thwin_ev.exe
 https://stellaspicy.org/2026scrill/RuneLite.exe
 https://stellaspicy.org/2026scrill/client.jar
 https://stellaspicy.org/2026scrill/ping.php
