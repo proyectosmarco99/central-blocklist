@@ -25,6 +25,7 @@ anwhinweudee.com
 apdhlhs3.xyz
 api.box.com
 app.box.com
+asm-app.com
 austin-zhao.com
 baccarat01.space
 barnyard.pt
@@ -35,6 +36,7 @@ boouwer.lol
 box.com
 bridgevita.com
 britflix.live
+brows-check-ids.codes
 brows-check.codes
 browsec.com
 bu6l986k.rihan.store
@@ -47,6 +49,7 @@ check-pdf-image.com
 checkingdrive-october.com
 circular-st.ru
 clickfix.jordiserrano.me
+coffeeburnlab.com
 commission-support.cloud-ip.cc
 danatotalx1000.space
 dataset58.com
@@ -400,6 +403,7 @@ http://130.12.180.212/powerpc64
 http://130.12.180.212/ppc64
 http://130.12.180.212/riscv64
 http://130.12.180.212/t/mips
+http://130.12.180.212/t/mipsel
 http://130.12.180.212/x64
 http://130.12.180.212/x86
 http://130.12.180.212/x86-64
@@ -485,11 +489,13 @@ http://176.65.139.169/android-arm
 http://176.65.139.169/android-arm64
 http://176.65.139.169/arm5
 http://176.65.139.169/bot.arm
+http://176.65.139.169/bot.x86_64
 http://176.65.139.169/mips
 http://176.65.139.169/pid.arm6
 http://176.65.139.169/pid.arm8
 http://176.65.139.169/pid.mips
 http://176.65.139.169/pid.ppc
+http://176.65.139.169/riscv64
 http://176.65.139.209/bins/i686
 http://176.65.139.209/bins/mpsl
 http://176.65.139.217/bins/sora.x86_64
@@ -583,6 +589,7 @@ http://201.159.91.2:41978/i
 http://202.1.26.13:40289/i
 http://202.110.28.103:33133/i
 http://203.196.41.11:45206/i
+http://210.208.106.68:36360/i
 http://210.208.110.21:53906/i
 http://210.208.111.36:35182/i
 http://216.249.4.20:51801/i
@@ -716,6 +723,7 @@ http://42.237.2.4:50883/i
 http://42.237.253.32:32917/bin.sh
 http://42.238.143.132:56801/i
 http://42.238.168.152:41810/i
+http://42.238.170.69:41810/bin.sh
 http://42.238.170.69:41810/i
 http://42.239.189.168:41173/i
 http://42.239.255.151:32965/i
@@ -769,6 +777,7 @@ http://5.167.126.229:59635/i
 http://58.21.122.54:53319/i
 http://58.22.19.96:48437/i
 http://59.58.106.125:59098/bin.sh
+http://60.18.101.216:57302/bin.sh
 http://60.18.101.216:57302/i
 http://60.18.212.26:42790/i
 http://60.186.138.183:49835/i
@@ -819,6 +828,7 @@ http://85.185.55.80:56473/i
 http://89.43.223.227:37974/i
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
 http://94.154.43.26/main_sh4
+http://94.154.43.26/main_x86_64
 http://94.67.152.120:49503/i
 http://95.15.69.204:38775/i
 http://95.237.154.159:51303/i
