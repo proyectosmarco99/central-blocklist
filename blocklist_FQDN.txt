@@ -57,6 +57,7 @@ econuco.com
 ekayzone.co.za
 elbaaz.com
 electronic72.pro
+enlito.be
 espace-zigzag.ch
 expressvpn.com
 feds.iphaven.qzz.io
@@ -253,6 +254,7 @@ http://115.49.3.192:54356/i
 http://115.53.201.33:44073/bin.sh
 http://115.53.201.33:44073/i
 http://115.53.220.37:43200/bin.sh
+http://115.55.129.129:55799/i
 http://115.55.236.179:49862/bin.sh
 http://115.55.32.63:55594/i
 http://115.55.55.172:50045/i
@@ -397,6 +399,7 @@ http://175.150.255.147:45190/bin.sh
 http://175.151.180.248:33943/i
 http://175.165.86.250:39489/bin.sh
 http://175.9.154.249:55944/i
+http://176.65.139.160/arm5
 http://176.65.139.166:8080/iran.aarch64
 http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.armv5l
@@ -697,6 +700,7 @@ http://85.137.53.167:24380/bins/dvr/akuma_i686
 http://85.137.53.167:24380/bins/dvr/akuma_m68k
 http://85.137.53.167:24380/bins/dvr/akuma_mips
 http://85.137.53.167:24380/bins/dvr/akuma_mps64
+http://85.137.53.167:24380/bins/dvr/akuma_mpsl
 http://85.137.53.167:24380/bins/dvr/akuma_ppc
 http://85.137.53.167:24380/bins/dvr/akuma_riscv32
 http://85.137.53.167:24380/bins/dvr/akuma_riscv64
