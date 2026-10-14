@@ -10,6 +10,7 @@
 67sixcebeh.surf
 8jdjpwka.baby
 account.box.com
+aeyibtnr.com
 africanyoutharchitects.org
 alprtem983332.iceiy.com
 anonymouse.org
@@ -460,6 +461,7 @@ http://27.215.122.210:51559/i
 http://27.215.127.125:41441/i
 http://27.215.215.163:37611/i
 http://27.215.55.107:33268/bin.sh
+http://27.215.82.47:49476/bin.sh
 http://27.215.82.47:49476/i
 http://27.219.118.7:41917/bin.sh
 http://27.44.145.224:34472/bin.sh
@@ -533,6 +535,7 @@ http://45.135.194.96/bins/arm6
 http://45.135.194.96/bins/arm7
 http://45.135.194.96/bins/i686
 http://45.135.194.96/bins/m68k
+http://45.135.194.96/bins/mips
 http://45.135.194.96/bins/mpsl
 http://45.135.194.96/bins/sh4
 http://45.135.194.96/bins/spc
@@ -633,6 +636,7 @@ https://gitlab.com/LoraHex/lunaexecutor/-/raw/HEAD/LunaExecutor.zip
 https://gitlab.com/MysteryBless/fortnite-ragdoll-v2-privcheat-including-softaim-esp-wallhack-triggerbot-and-more/-/raw/main/Loader.exe
 https://gitlab.com/SpinRain/warzoneexternalcheat/-/raw/HEAD/Loader.exe
 https://gitlab.com/chaingangs/fivem-mod-menu/-/raw/HEAD/Loader.exe
+https://gitlab.com/downshifts/valorantexternalcheat/-/raw/HEAD/Loader.exe
 https://gitlab.com/fredostorm/escape-from-tarkov-cheat-undetected-with-aimbot-esp-wallhack-radar-hack-and-more/-/raw/HEAD/eft_hack.zip
 https://goobaaclient.com/downloads/GoobaaClient.1.21.11.jar
 https://hardwood-studio-obviously-briefing.trycloudflare.com/download/winhost
