@@ -6,6 +6,8 @@
 *.mega.co.nz
 0222894ms09-secondary.z9.web.core.windows.net
 2in-sharepoint.com
+67sixcebeh.surf
+8jdjpwka.baby
 account.box.com
 africanyoutharchitects.org
 alprtem983332.iceiy.com
@@ -61,6 +63,7 @@ ikovrsps.com
 ikvg8azi.misle.store
 ingpras.one
 ithracars.com
+j9af4sr.guru
 joker123dragon.space
 kblaa.com
 kd06s98zp58kxcst0zywt9.beer
@@ -82,6 +85,7 @@ nordvpn.com
 notificacionesspoa654646.github.io
 nr.333vip.org
 nr.3toto.com
+okekjaiw.click
 osbot.net
 parlouredshop.com
 peykanrapkon.com
@@ -247,6 +251,7 @@ http://147.45.116.134/72img_021534.png
 http://148.66.17.125:60003/?h=148.66.17.125&p=60003&t=ws&a=w32&stage=true
 http://151.234.36.221:38747/i
 http://152.42.143.45/contact
+http://154.83.85.63:47991/chisel-amd64
 http://154.83.85.63:47991/es02_key
 http://154.83.85.63:47991/es02_key.pub
 http://154.83.85.63:47991/klogd-ppc-final
@@ -306,6 +311,7 @@ http://176.65.139.169/bot.arm
 http://176.65.139.169/mips
 http://176.65.139.169/pid.arm6
 http://176.65.139.169/pid.ppc
+http://176.65.139.209/bins/i686
 http://176.65.139.231/bins/morte.arm
 http://176.65.139.231/bins/morte.arm5
 http://176.65.139.231/bins/morte.arm7
@@ -474,6 +480,7 @@ http://42.237.253.32:32917/bin.sh
 http://42.238.168.152:41810/i
 http://42.238.170.69:41810/i
 http://42.52.20.56:49690/i
+http://42.55.6.11:49652/i
 http://42.57.164.151:60901/i
 http://42.57.184.73:34836/i
 http://42.59.247.94:45590/bin.sh
