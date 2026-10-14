@@ -20,6 +20,7 @@ anwhinweudee.com
 apdhlhs3.xyz
 api.box.com
 app.box.com
+austin-zhao.com
 bigwin1000jp.online
 bonanza1jepe.space
 boouwer.lol
@@ -35,6 +36,7 @@ cheapproxyservers.com
 check-pdf-image.com
 checkingdrive-october.com
 circular-st.ru
+clickfix.jordiserrano.me
 commission-support.cloud-ip.cc
 dataset58.com
 demoslotgac1r.space
@@ -371,6 +373,7 @@ http://176.65.139.41/armv7-l7
 http://176.65.139.41/lel.sh
 http://176.65.139.41/lol.sh
 http://176.65.139.41/mpsl
+http://176.65.139.41/skid.arm
 http://176.65.139.41/skid.mips
 http://176.65.139.41/x64s-l7
 http://176.65.139.41/x86
@@ -393,6 +396,7 @@ http://182.116.115.77:46115/i
 http://182.116.122.168:50444/i
 http://182.116.34.137:46080/bin.sh
 http://182.117.146.213:35245/i
+http://182.117.151.7:55978/bin.sh
 http://182.117.151.7:55978/i
 http://182.117.163.106:60149/bin.sh
 http://182.117.31.73:59387/bin.sh
@@ -425,6 +429,7 @@ http://203.196.41.11:45206/i
 http://210.208.111.36:35182/i
 http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
+http://218.28.150.23:42949/bin.sh
 http://219.155.200.85:53694/i
 http://219.155.237.46:34022/i
 http://219.156.119.243:37129/i
@@ -529,6 +534,7 @@ http://42.229.175.66:55978/bin.sh
 http://42.230.218.97:45408/i
 http://42.230.38.184:40155/bin.sh
 http://42.231.111.124:60802/bin.sh
+http://42.231.111.124:60802/i
 http://42.231.65.187:33162/i
 http://42.233.104.85:36775/bin.sh
 http://42.234.165.238:39954/i
