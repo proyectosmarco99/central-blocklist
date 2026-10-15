@@ -15,6 +15,7 @@
 a2ztraders.in
 aailc.co
 account.box.com
+adamconsultings.com
 aeyibtnr.com
 africanyoutharchitects.org
 ai.myrtlelexicon.co
@@ -29,9 +30,12 @@ asm-app.com
 austin-zhao.com
 baccarat01.space
 barnyard.pt
+basyoun.com
+beatstories.store
 bed.camp-cantina.com
 bigwin1000jp.online
 bonanza1jepe.space
+bongaentertainment.com
 boouwer.lol
 box.com
 bridgevita.com
@@ -45,12 +49,14 @@ bytekboya.com
 cellexmedia.com
 champw.com
 cheapproxyservers.com
+check-codbrowse.beer
 check-pdf-image.com
 checkingdrive-october.com
 circular-st.ru
 clickfix.jordiserrano.me
 coffeeburnlab.com
 commission-support.cloud-ip.cc
+csaladiasztrologia.hu
 danatotalx1000.space
 dataset58.com
 demoslotgac1r.space
@@ -101,6 +107,7 @@ ibfan.cz
 iccdubaj.com
 iceiy.com
 ifuckurmomjaffacakes.win
+iids.org
 ik.333vip.org
 ik.3toto.com
 ikovrsps.com
@@ -112,12 +119,14 @@ inventixdigital.com
 ithracars.com
 j10.com.pk
 j9af4sr.guru
+jeh.org.in
 joker123dragon.space
 jp168amp-super.com
 kaidocafe.com
 kblaa.com
 kd06s98zp58kxcst0zywt9.beer
 kendo-mainz.de
+ketanhitam.my.id
 khaniholding.com
 khovai.com
 klix3.de
@@ -166,6 +175,7 @@ osbot.net
 osteriailmelograno.com
 packyourdreams.de
 pak111.app
+pak33.one
 papatty.ir
 parlouredshop.com
 pelakhaft.ir
@@ -173,6 +183,7 @@ peykanrapkon.com
 pleasantsims.com
 pobruog.wiki
 poeirahistoria.com.br
+popupsure.com
 pragmatic111gac0r.space
 prod-static.nascarnash.com
 productpalace.pk
@@ -227,6 +238,7 @@ torproject.org
 tosee-laser.com
 tr.ee
 trueloveksa.com
+trustawesome.com
 tunnelbear.com
 tuurintupa.fi
 ultrasurf.us
@@ -243,11 +255,16 @@ vg5sgxv.lol
 vpngate.net
 wakanda123king.shop
 wakandaasia.online
+wartasentral.com
 warungseblak.co.id
 wealthywealth.co.za
 wesolveit.pt
+whitepearldentalcare.com.au
 wibuku.org
+widemarsh.com
 windscribe.com
+wise-pool.eu
+wjtirex.it
 wmk77.com
 worldgo.online
 www.bk8casinothai.com
@@ -279,6 +296,8 @@ http://103.172.186.170:44812/bin.sh
 http://103.190.23.91:38586/bin.sh
 http://103.192.204.30:35919/i
 http://103.238.235.250:9999/lol.sh
+http://103.238.235.250:9999/wj0s.arm
+http://103.238.235.250:9999/wj0s.arm64
 http://103.238.235.250:9999/wj0s.arm7
 http://103.238.235.250:9999/wj0s.i686
 http://103.31.103.204:40803/bin.sh
@@ -304,6 +323,7 @@ http://108.137.82.100:9999/frpc_linux_arm
 http://108.137.82.100:9999/frpc_mips
 http://108.137.82.100:9999/frps
 http://108.170.136.155:50255/bin.sh
+http://109.236.46.199:59235/Mozi.m
 http://109.236.46.199:59235/bin.sh
 http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a32&stage=true&k=b41bfef6tcp
 http://110.42.232.120:8897/?h=110.42.232.120&p=8897&t=tcp&a=a64&stage=true&k=b41bfef6tcp
@@ -325,6 +345,7 @@ http://113.236.36.200:50471/i
 http://113.53.69.164:57025/i
 http://114.198.242.174:39288/i
 http://114.226.200.81:37474/bin.sh
+http://115.199.56.198:50001/bin.sh
 http://115.206.110.121:47845/i
 http://115.207.84.249:33401/i
 http://115.48.144.79:58929/bin.sh
@@ -349,18 +370,22 @@ http://115.56.181.20:55348/i
 http://115.57.239.216:55215/bin.sh
 http://115.57.239.216:55215/i
 http://115.58.179.240:40854/bin.sh
+http://115.58.179.240:40854/i
 http://115.59.228.174:52120/bin.sh
+http://115.61.115.27:49429/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.67:57569/bin.sh
 http://115.63.14.84:51614/i
 http://115.63.75.92:34648/i
 http://115.99.114.27:52342/bin.sh
 http://115.99.114.27:52342/i
+http://116.10.133.42:48435/i
 http://116.139.172.245:54006/i
 http://116.140.7.177:35911/bin.sh
 http://116.207.223.13:59439/i
 http://117.245.138.57:51324/i
 http://117.63.9.109:43512/i
+http://118.251.12.82:40560/bin.sh
 http://118.253.80.15:35077/bin.sh
 http://118.253.80.15:35077/i
 http://119.114.134.132:51983/bin.sh
@@ -404,6 +429,8 @@ http://123.9.203.45:54662/i
 http://123.9.84.231:39954/i
 http://124.6.169.54:60212/i
 http://125.104.39.108:14081/bin.sh
+http://125.40.153.124:36333/Mozi.a
+http://125.42.81.163:43385/bin.sh
 http://125.43.34.132:36892/bin.sh
 http://125.44.46.94:50619/bin.sh
 http://125.45.67.66:58929/bin.sh
@@ -412,6 +439,7 @@ http://125.46.173.149:58427/bin.sh
 http://125.46.198.140:35535/bin.sh
 http://125.47.113.29:42844/i
 http://130.0.43.154:57792/bin.sh
+http://130.12.180.212/M68K
 http://130.12.180.212/SH4
 http://130.12.180.212/amd64
 http://130.12.180.212/arm4
@@ -419,9 +447,12 @@ http://130.12.180.212/arm6
 http://130.12.180.212/arm64
 http://130.12.180.212/armhf
 http://130.12.180.212/armv4l
+http://130.12.180.212/armv5l
 http://130.12.180.212/armv6l
+http://130.12.180.212/armv7
 http://130.12.180.212/i386
 http://130.12.180.212/i686
+http://130.12.180.212/mips64el
 http://130.12.180.212/mipsel
 http://130.12.180.212/mipsle
 http://130.12.180.212/powerpc64
@@ -495,6 +526,7 @@ http://172.245.106.144//violet.x86
 http://172.245.106.144/ohshit.sh
 http://173.255.247.97:8001/ora23.sh
 http://175.11.133.35:55834/i
+http://175.146.225.101:55108/i
 http://175.146.242.218:54547/i
 http://175.148.87.105:37309/bin.sh
 http://175.148.87.105:37309/i
@@ -510,6 +542,7 @@ http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.armv5l
 http://176.65.139.166:8080/iran.armv6l
 http://176.65.139.166:8080/iran.sh4
+http://176.65.139.166:8080/iran.sparc
 http://176.65.139.169/android-arm
 http://176.65.139.169/android-arm64
 http://176.65.139.169/arm5
@@ -528,6 +561,7 @@ http://176.65.139.231/bins/morte.arm
 http://176.65.139.231/bins/morte.arm5
 http://176.65.139.231/bins/morte.arm7
 http://176.65.139.231/bins/morte.i686
+http://176.65.139.231/bins/morte.ppc
 http://176.65.139.231/bins/morte.sh4
 http://176.65.139.231/bins/morte.spc
 http://176.65.139.231/mirai.arm
@@ -535,6 +569,7 @@ http://176.65.139.231/mirai.mips
 http://176.65.139.231/mirai.x86
 http://176.65.139.231:8080/tadashi/tadashi.x64
 http://176.65.139.40/tot
+http://176.65.139.41/armv5
 http://176.65.139.41/armv7-l7
 http://176.65.139.41/lel.sh
 http://176.65.139.41/lol.sh
@@ -544,6 +579,7 @@ http://176.65.139.41/skid.arm5
 http://176.65.139.41/skid.arm7
 http://176.65.139.41/skid.mips
 http://176.65.139.41/skid.mpsl
+http://176.65.139.41/x64s
 http://176.65.139.41/x64s-l7
 http://176.65.139.41/x86
 http://179.49.213.85:33153/i
@@ -591,6 +627,7 @@ http://182.127.26.104:52057/i
 http://182.127.34.173:57928/bin.sh
 http://182.127.70.192:40331/bin.sh
 http://182.239.81.126:51391/i
+http://182.240.194.49:57733/bin.sh
 http://182.246.159.52:51415/i
 http://183.35.50.185:40190/i
 http://190.103.72.185:38837/i
@@ -607,6 +644,7 @@ http://196.189.96.59:50231/i
 http://196.189.96.59:55280/i
 http://196.189.98.77:41820/i
 http://196.190.69.149:39184/i
+http://196.190.69.149:54152/i
 http://196.74.47.206:34746/i
 http://2.85.58.246:49503/bin.sh
 http://201.159.91.2:41978/Mozi.m
@@ -617,6 +655,7 @@ http://203.196.41.11:45206/i
 http://210.208.106.68:36360/i
 http://210.208.110.21:53906/i
 http://210.208.111.36:35182/i
+http://212.54.86.171:51213/bin.sh
 http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
 http://218.24.252.208:47504/bin.sh
@@ -637,6 +676,7 @@ http://220.202.91.248:55001/bin.sh
 http://221.1.246.222:45921/i
 http://221.14.84.60:35948/bin.sh
 http://221.15.185.45:51916/i
+http://221.203.206.182:43811/bin.sh
 http://221.203.206.182:43811/i
 http://222.127.254.114:34922/i
 http://222.127.50.108:41701/i
@@ -835,8 +875,10 @@ http://85.137.53.167:24380/bins/android/akuma_i486
 http://85.137.53.167:24380/bins/android/akuma_m68k
 http://85.137.53.167:24380/bins/android/akuma_mips
 http://85.137.53.167:24380/bins/android/akuma_mpsl
+http://85.137.53.167:24380/bins/android/akuma_ppc
 http://85.137.53.167:24380/bins/android/akuma_riscv64
 http://85.137.53.167:24380/bins/android/akuma_spc
+http://85.137.53.167:24380/bins/android/akuma_x64
 http://85.137.53.167:24380/bins/dvr/akuma_arm64
 http://85.137.53.167:24380/bins/dvr/akuma_arm7
 http://85.137.53.167:24380/bins/dvr/akuma_i686
@@ -907,6 +949,7 @@ https://fil.immortales.life/Divine.zip
 https://file-install.com/
 https://filezilla.cc/serverpython86.exe
 https://fotoschop.cl/Smmrgie.txt
+https://fufelsh-13.com/
 https://getoutofthebackseat.com/HashManager64.zip
 https://github.com/B3at1z/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/Nine23423423/Reload1/raw/refs/heads/main/RtkAudUService.exe
@@ -942,15 +985,19 @@ https://gitlab.com/SpinRain/warzoneexternalcheat/-/raw/HEAD/Loader.exe
 https://gitlab.com/chaingangs/fivem-mod-menu/-/raw/HEAD/Loader.exe
 https://gitlab.com/downshifts/valorantexternalcheat/-/raw/HEAD/Loader.exe
 https://gitlab.com/fredostorm/escape-from-tarkov-cheat-undetected-with-aimbot-esp-wallhack-radar-hack-and-more/-/raw/HEAD/eft_hack.zip
+https://gitlab.com/mindgone/eulencheats-fivem/-/raw/main/Loader.exe
 https://goobaaclient.com/downloads/GoobaaClient.1.21.11.jar
 https://hardwood-studio-obviously-briefing.trycloudflare.com/download/winhost
+https://herbtrends.com/
 https://hp.3toto.com/
+https://jgkawdq.cloud/
 https://jqpss3yzn9n3mqqkukhfs.beer/
 https://kaifdlyaw.com/
 https://kd06s98zp58kxcst0zywt9.beer/
 https://madmonkeystyle.com/
 https://mc-modhub.vercel.app/mods/dupemod-26.x.jar
 https://micstndasap.world/img_191633.png
+https://modhollow.netlify.app/files/krypton-client/Krypton%20Client%201.21.11_1.jar
 https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
 https://modhollow.netlify.app/files/opsec/opsec-1.21.11%2Bv1.1.7.1.jar
 https://nr.333vip.org/
@@ -980,6 +1027,7 @@ https://torproject.org/download/
 https://tox.chat/download.html
 https://tronzadorasnng.com/img_010548.png
 https://voidgame.ink/zalupa/Void%20Launcher.rar?v=1791741131145&r=4np6h3
+https://wunder-fdle.com/
 https://www.eyqw474.com/11load
 https://x.com/TheGentlemen26
 https://xwezrnmm0tf1vd3llbdwl.beer/
