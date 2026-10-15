@@ -4139,6 +4139,7 @@ dendrolatry.karrozzin.cloud-ip.cc
 dene60.hollowfern.sbs
 departlamb.com
 departsettle.com
+depoboslotez1.space
 deproxyserver.com
 derekcastle.duckdns.org
 derevnya.px.i81.ru
@@ -11998,6 +11999,7 @@ radmin-vpn.com
 radmin-vpn.org
 radminvpn.org
 radom.oaklandscioly.org
+rafacommunications.com
 rafi.dynns.com
 rahavard365.co
 raidnas.xyz
@@ -16074,6 +16076,7 @@ http://119.115.254.82:54198/bin.sh
 http://119.117.251.43:56180/bin.sh
 http://119.166.65.199:53016/bin.sh
 http://119.166.65.199:53016/i
+http://119.179.238.153:48300/bin.sh
 http://119.179.248.208:43654/i
 http://119.183.26.169:57722/i
 http://120.28.135.4:56775/i
@@ -16116,6 +16119,7 @@ http://123.9.196.5:57018/i
 http://123.9.203.45:54662/bin.sh
 http://123.9.203.45:54662/i
 http://123.9.84.231:39954/i
+http://124.6.167.113:52683/bin.sh
 http://124.6.169.54:60212/i
 http://125.104.39.108:14081/bin.sh
 http://125.40.153.124:36333/Mozi.a
@@ -16161,6 +16165,7 @@ http://130.12.180.212/x64
 http://130.12.180.212/x86
 http://130.12.180.212/x86-64
 http://130.12.180.212/x86_64
+http://138.226.247.154/session/8ea0e4ef65dd189c
 http://139.135.40.51:47099/Mozi.m
 http://14.205.104.200:56814/Mozi.m
 http://147.45.116.134/72img_021534.png
@@ -16550,6 +16555,7 @@ http://42.238.170.69:41810/i
 http://42.239.189.168:41173/i
 http://42.239.255.151:32965/i
 http://42.4.127.9:48434/bin.sh
+http://42.52.173.208:41569/bin.sh
 http://42.52.192.164:49983/bin.sh
 http://42.52.20.56:49690/i
 http://42.52.233.42:57947/bin.sh
@@ -16621,6 +16627,7 @@ http://61.52.92.74:36216/bin.sh
 http://61.53.135.191:48339/i
 http://61.53.15.189:56888/i
 http://61.53.150.241:45354/i
+http://61.53.88.16:50557/i
 http://61.53.93.49:38979/bin.sh
 http://61.54.41.100:59180/i
 http://63.245.153.41:37905/i
@@ -16689,6 +16696,7 @@ http://synerfy.biz:6627/messages
 http://veled.com.tr/api/webhooks/bf275c79b814f8c5/g-aSnkfbqsjQs_HiPlDNR-9FRJC0sdc-
 http://wp.fujeigroup.com:8888/file/img_220945.png
 https://172.235.183.120/
+https://212.147.244.162/
 https://217.60.102.185/
 https://38.180.162.39/app/apk
 https://7ujni7galhy2l8y6431l.beer/
@@ -16757,6 +16765,7 @@ https://github.com/archrace/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/bonnylith/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/candyblow/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/champywiss/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/chamysooel/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/deelcis/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/dirlands/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
