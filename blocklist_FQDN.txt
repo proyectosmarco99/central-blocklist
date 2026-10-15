@@ -2901,6 +2901,7 @@ c-dns.com
 c.cicitt.ch
 c.cpfrx.info
 c48afdb0a50939a19a1eb477fa3da3be2aa67e1d.com
+c4soft.com
 c5325786f0985dd8d1844a9df52874195ecd2887.com
 c6gj-static.net
 c7484e359297.site
@@ -3377,6 +3378,7 @@ connectrly.com
 connecttossowin.com
 conserveint.com
 conservesolution.ae
+construccionescrisvi.es
 consumervpn.trendmicro.com
 contassh.com
 contentabc.com
@@ -5800,6 +5802,7 @@ dylan-has-balls.renaceracs.xyz
 dynanyx.com
 dynasty.abrdns.com
 dyt795dady5lj.cloudfront.net
+dytpelinsu.com
 dyuyo.com
 dzeron.com
 dzglif4kkvz04.cloudfront.net
@@ -6174,6 +6177,7 @@ erwancloud.info
 erxikjr.com
 es-ma.foxyfy.net
 es-proxy.com
+esaenergy.com.pk
 esbdgef.com
 esel.stusta.mhn.de
 esgmemasigma.motorwisemechanical.com.au
@@ -8117,6 +8121,7 @@ hubdhl.com
 hubebay.com
 hubgoogle.com
 hubups.com
+huffington-post.online
 humorvalid.com
 hungry.freetls.fastly.net
 huntllcx.cn
@@ -9647,6 +9652,7 @@ luckydaysims.com
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
+luluni.online
 lumaay.ru
 lumenvpn.help
 lumi.frogseducation.life
@@ -11385,6 +11391,7 @@ portionsigh.com
 portmap.io
 portmapper.myonlineportal.net
 portssh.com
+pos47.com
 positif4.cross.net.id
 potatoadsupport.com
 potatojuice.h0stname.net
@@ -13502,6 +13509,7 @@ titannet.io
 titantunnelvpn.com
 tiwschool.vercel.app
 tixknq83.com
+tizant.com
 tizidajian.com
 tj.jamesxue.xyz
 tk2-404-43267.vs.sakura.ne.jp
@@ -13741,6 +13749,7 @@ turkmenvibe.ru
 turmericrecipes.com
 turtle.happyforever.com
 tuskythehusky.tech
+tusometech.com
 tution.bury.abrdns.com
 tutor.idea.shand.org
 tutoring4free.org
@@ -14961,6 +14970,7 @@ webtunnelx.com
 webunlim.com
 webxify.com
 wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
+wecarehairstudio.com
 wedding-present.us
 wegohub.com
 wehateschool.tcloud.my
@@ -15902,6 +15912,7 @@ http://103.238.235.250:9999/wj0s.arm7
 http://103.238.235.250:9999/wj0s.i686
 http://103.31.103.204:40803/bin.sh
 http://103.70.165.181:49668/bin.sh
+http://103.81.239.59:55792/i
 http://104.64.0.199/hiddenbin/Space.arm
 http://104.64.0.199/hiddenbin/Space.arm5
 http://104.64.0.199/hiddenbin/Space.arm6
@@ -15915,6 +15926,7 @@ http://104.64.0.199/hiddenbin/Space.sh4
 http://104.64.0.199/hiddenbin/Space.x86_64
 http://105.184.8.241:41871/bin.sh
 http://105.186.68.166:35551/bin.sh
+http://105.186.68.166:35551/i
 http://105.225.46.193:36959/bin.sh
 http://105.226.5.161:48433/bin.sh
 http://108.137.82.100:9999/frpc
@@ -15936,6 +15948,7 @@ http://112.248.103.215:38282/bin.sh
 http://112.248.103.215:38282/i
 http://112.248.113.211:39187/bin.sh
 http://112.248.113.211:39187/i
+http://112.248.185.24:36088/bin.sh
 http://113.206.97.32:54393/i
 http://113.230.23.74:47203/bin.sh
 http://113.230.23.74:47203/i
@@ -15978,6 +15991,7 @@ http://115.61.115.27:49429/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.67:57569/bin.sh
 http://115.62.177.67:57569/i
+http://115.63.14.230:44232/bin.sh
 http://115.63.14.84:51614/i
 http://115.63.75.92:34648/i
 http://115.99.114.27:52342/bin.sh
@@ -16064,8 +16078,10 @@ http://130.12.180.212/i486
 http://130.12.180.212/i686
 http://130.12.180.212/mips64
 http://130.12.180.212/mips64el
+http://130.12.180.212/mips64le
 http://130.12.180.212/mipsel
 http://130.12.180.212/mipsle
+http://130.12.180.212/powerpc
 http://130.12.180.212/powerpc64
 http://130.12.180.212/ppc64
 http://130.12.180.212/riscv64
@@ -16155,6 +16171,7 @@ http://176.65.139.166:8080/iran.aarch64
 http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.armv5l
 http://176.65.139.166:8080/iran.armv6l
+http://176.65.139.166:8080/iran.m68k
 http://176.65.139.166:8080/iran.mips
 http://176.65.139.166:8080/iran.mipsel
 http://176.65.139.166:8080/iran.sh4
@@ -16259,6 +16276,7 @@ http://182.240.194.49:57733/bin.sh
 http://182.246.159.52:51415/i
 http://183.35.50.185:40190/i
 http://190.103.72.185:38837/i
+http://193.178.158.107/bin/6cbea551e8cbc1bb_global_8668.3380.0.0_INSTALL.exe
 http://193.178.158.107/bin/6fb78459bea435c0_remus.exe
 http://193.178.158.57/bin/0d96f1b3812d6a4c_build_x64.exe
 http://193.178.158.57/bin/4e984c028b501402_pyinfector.exe
@@ -16278,6 +16296,7 @@ http://196.190.69.149:54152/i
 http://196.74.47.206:34746/i
 http://2.85.58.246:49503/bin.sh
 http://201.159.91.2:41978/Mozi.m
+http://201.159.91.2:41978/bin.sh
 http://201.159.91.2:41978/i
 http://202.1.26.13:40289/i
 http://202.110.28.103:33133/i
@@ -16314,6 +16333,7 @@ http://222.127.50.108:41701/i
 http://222.127.53.189:33656/i
 http://222.127.71.141:36118/bin.sh
 http://222.127.76.40:53819/bin.sh
+http://222.137.146.217:54924/i
 http://222.137.154.63:48972/bin.sh
 http://222.137.154.63:48972/i
 http://222.137.158.220:48972/bin.sh
@@ -16330,6 +16350,7 @@ http://222.138.150.84:39894/i
 http://222.138.216.248:49409/i
 http://222.139.44.122:60548/i
 http://222.139.67.114:59134/bin.sh
+http://222.141.112.238:57491/bin.sh
 http://222.141.133.202:47343/i
 http://222.141.142.185:60846/bin.sh
 http://222.141.142.185:60846/i
@@ -16361,6 +16382,7 @@ http://23.254.195.48:8099/t5b.so
 http://23.254.195.48:8099/t5c.so
 http://23.254.195.48:8099/t_arm5.so
 http://23.254.195.48:8099/t_armhf.so
+http://27.194.57.63:60305/bin.sh
 http://27.207.112.61:45686/i
 http://27.207.240.78:52856/i
 http://27.215.122.210:51559/i
@@ -16410,8 +16432,10 @@ http://42.224.67.128:57018/i
 http://42.227.190.233:35825/bin.sh
 http://42.227.190.233:35825/i
 http://42.228.37.155:42735/bin.sh
+http://42.228.37.155:42735/i
 http://42.229.175.66:55978/bin.sh
 http://42.230.218.97:45408/i
+http://42.230.34.172:50944/bin.sh
 http://42.230.38.184:40155/bin.sh
 http://42.231.111.124:60802/bin.sh
 http://42.231.111.124:60802/i
@@ -16469,6 +16493,7 @@ http://45.198.224.34/0uparm6
 http://45.198.224.34/0uparm7
 http://45.198.224.34/0upm68k
 http://45.198.224.34/0upmips
+http://45.198.224.34/0upppc
 http://45.198.224.34/0upsh4
 http://45.198.224.34/0upspc
 http://45.198.224.34/0upx64
@@ -16512,6 +16537,7 @@ http://85.137.53.167:24380/bins/android/akuma_m68k
 http://85.137.53.167:24380/bins/android/akuma_mips
 http://85.137.53.167:24380/bins/android/akuma_mpsl
 http://85.137.53.167:24380/bins/android/akuma_ppc
+http://85.137.53.167:24380/bins/android/akuma_riscv32
 http://85.137.53.167:24380/bins/android/akuma_riscv64
 http://85.137.53.167:24380/bins/android/akuma_spc
 http://85.137.53.167:24380/bins/android/akuma_x64
@@ -16531,8 +16557,11 @@ http://85.137.53.167:24380/bins/telnet/akuma_x64
 http://85.185.55.80:56473/bin.sh
 http://85.185.55.80:56473/i
 http://89.43.223.227:37974/i
+http://91.92.242.236/files-129312398/files/file_27539cb69c52484f.exe
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
 http://94.154.43.26/main_arm5
+http://94.154.43.26/main_arm6
+http://94.154.43.26/main_mips
 http://94.154.43.26/main_ppc
 http://94.154.43.26/main_sh4
 http://94.154.43.26/main_x86_64
@@ -16545,6 +16574,7 @@ http://arqtsop.shop:9932/documents
 http://fgashub.shop:9932/addresses
 http://phetsre.shop:3452/teams
 http://stanarcservice.com/asset/update.dat
+http://veled.com.tr/api/webhooks/bf275c79b814f8c5/g-aSnkfbqsjQs_HiPlDNR-9FRJC0sdc-
 http://wp.fujeigroup.com:8888/file/img_220945.png
 https://172.235.183.120/
 https://217.60.102.185/
@@ -16585,7 +16615,9 @@ https://cdn.discordapp.com/attachments/1558894388057350258/1558894459301658634/b
 https://creativex5.cc/
 https://dexgqzmok.cloud/
 https://drive.google.com/uc?export=download&id=14oEkhhftO_xx6X0Db-qpZwUl_arXfhIO
+https://drive.google.com/uc?export=download&id=1_UZcQfkdBH4WncF92tW54H57khybkee4
 https://ebashim1.com/
+https://ed75a310.infinityindians.pages.dev/ktool.exe
 https://egyoast.cloud/
 https://erifytrtr1.vip/
 https://fh.4toto.net/
@@ -16607,6 +16639,7 @@ https://github.com/archrace/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/bonnylith/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/champywiss/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/deelcis/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/dirlands/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
 https://github.com/feedlixs/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/hannertMAX/EulenCheats/raw/HEAD/Loader.exe
@@ -16623,10 +16656,12 @@ https://github.com/shademilliage/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/shellmadys/DMA-Spoofer/raw/HEAD/DMA_Spoofer.exe
 https://github.com/sizzenls/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/skannyraws/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/stehts/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/stellacriss/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/stylyshconc/Swift-Executor/raw/HEAD/Swift.exe
 https://github.com/tracc1vs/FortniteExternalCheat/raw/HEAD/Loader.exe
 https://github.com/vall3stecch/EulenCheats/raw/HEAD/Loader.exe
+https://github.com/wakkaflipps/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://gitlab.com/AmillyRow/quantv-sp-fivem-ragemp-altv/-/raw/main/QuantV_Latest_2026.zip
 https://gitlab.com/Devilsprite/xeno-executor/-/raw/main/XenoExecutor.zip
 https://gitlab.com/LoraHex/lunaexecutor/-/raw/HEAD/LunaExecutor.zip
