@@ -1533,6 +1533,7 @@ agambizleeyleniglottery.com
 agathe.tobkar.net
 agent.frankutils.xyz
 agentsless.org
+agenxux.cyou
 agh-bitk.russel053.com
 agh-hetzner.yasirafique.com
 agh-jkt.santainetwork.my.id
@@ -2196,6 +2197,7 @@ beanweb.qzz.io.cdn.cloudflare.net
 beapasswpn.com
 bearvpn.com
 bearvps.mom
+beatinsights.store
 beatstories.store
 beautician.bury.abrdns.com
 beautifullife.eu.org
@@ -16483,6 +16485,7 @@ http://222.137.154.63:48972/i
 http://222.137.158.220:48972/bin.sh
 http://222.137.158.220:48972/i
 http://222.137.190.185:54184/bin.sh
+http://222.137.190.185:54184/i
 http://222.137.250.123:48113/bin.sh
 http://222.137.77.98:37558/bin.sh
 http://222.137.85.203:48268/bin.sh
@@ -16546,6 +16549,8 @@ http://27.44.145.224:34472/bin.sh
 http://27.44.145.224:34472/i
 http://36.49.52.140:36933/Mozi.m
 http://36.70.140.206:51974/i
+http://36.89.252.178:58729/bin.sh
+http://36.89.252.178:58729/i
 http://37.28.177.69:45953/i
 http://38.253.224.56:8080/hiddenbin/arm7
 http://38.253.224.56:8080/hiddenbin/bot.x86_64
@@ -16844,6 +16849,7 @@ https://github.com/jehhn1l/FiveM-Spoofer/raw/HEAD/CFXBypass.exe
 https://github.com/l3mmn1ia/Temp-Spoofer-LifeTime/raw/HEAD/TempSpoofer.exe
 https://github.com/lierghs/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/limmadays/EulenCheats/raw/HEAD/Loader.exe
+https://github.com/mentall1s/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/rarr1ve/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/sevv1lsy/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/shademilliage/Roblox-Script-Executor/raw/HEAD/Wave.exe
