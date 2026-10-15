@@ -207,13 +207,16 @@ ski.blacklabelfremont.com
 smkandcompany.com
 smkn2jember.sch.id
 sorko.pro
+starkids.cz
 static-host119-73-101-199.link.net.pk
 status.fernhollow.cc
+stbarnabaslittlelambs.org
 stellaspicy.org
 stnnik2.sa-sharepoint.com
 sumsetintl.com
 surfshark.com
 tesafco.ir
+testnovin9.ir
 tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion
 thegentlemen.cc
 thegentlemen.st
@@ -855,6 +858,7 @@ http://96.246.230.97:34605/i
 http://arqtsop.shop:9932/documents
 http://fgashub.shop:9932/addresses
 http://stanarcservice.com/asset/update.dat
+http://wp.fujeigroup.com:8888/file/img_220945.png
 https://172.235.183.120/
 https://217.60.102.185/
 https://38.180.162.39/app/apk
@@ -935,6 +939,7 @@ https://hp.3toto.com/
 https://jqpss3yzn9n3mqqkukhfs.beer/
 https://kaifdlyaw.com/
 https://kd06s98zp58kxcst0zywt9.beer/
+https://madmonkeystyle.com/
 https://mc-modhub.vercel.app/mods/dupemod-26.x.jar
 https://micstndasap.world/img_191633.png
 https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
@@ -963,6 +968,7 @@ https://taunahi.skyblock-qol.com/TaunahiAutoPatch-b7-fabric.jar
 https://torproject.org/download/
 https://tox.chat/download.html
 https://tronzadorasnng.com/img_010548.png
+https://voidgame.ink/zalupa/Void%20Launcher.rar?v=1791741131145&r=4np6h3
 https://www.eyqw474.com/11load
 https://x.com/TheGentlemen26
 https://xwezrnmm0tf1vd3llbdwl.beer/
