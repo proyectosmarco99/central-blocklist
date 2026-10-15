@@ -6199,6 +6199,7 @@ essay.gov.technologybriefingcenter.com
 esses.info
 etgigigich.ipv64.net
 eth.link
+ethicaltone.com
 ethology.karrozzin.cloud-ip.cc
 etkarta.easterndns.com
 ettego.com
@@ -9845,6 +9846,7 @@ matinatlas.com
 matorian.pro
 matrixvpn.net
 mavalleenumerique.hopto.org
+mavisuru.lk
 mawos.store
 maxfong.cc
 maxmessenger.dev
@@ -10860,6 +10862,7 @@ olegofriend.ru
 olipa.ru
 olympicproxy.net
 olympus01gacors.site
+olympus4asli.space
 olympusgac0rwin.online
 omasterok.pro
 omegaproxy.com
@@ -15935,6 +15938,7 @@ zzextyow.com
 zzzzz.click
 http://101.23.127.18:59328/bin.sh
 http://102.129.165.178:8443/?h=102.129.165.178&p=8443&t=ws&a=w32&stage=true
+http://102.129.165.178:8443/?h=102.129.165.178&p=8443&t=ws&a=w64&stage=true
 http://103.111.23.12:49200/bin.sh
 http://103.111.23.12:49200/i
 http://103.125.174.116:53120/i
@@ -16015,6 +16019,7 @@ http://115.48.144.79:58929/bin.sh
 http://115.48.144.79:58929/i
 http://115.48.151.254:59876/i
 http://115.48.152.62:47861/bin.sh
+http://115.49.129.97:53996/i
 http://115.49.203.91:54144/bin.sh
 http://115.49.203.91:54144/i
 http://115.49.3.192:54356/i
@@ -16224,6 +16229,7 @@ http://173.255.247.97:8001/ora23.sh
 http://175.11.133.35:55834/i
 http://175.146.225.101:55108/i
 http://175.146.242.218:54547/i
+http://175.148.156.89:34417/i
 http://175.148.87.105:37309/bin.sh
 http://175.148.87.105:37309/i
 http://175.149.67.216:46495/bin.sh
@@ -16235,12 +16241,14 @@ http://175.165.86.250:39489/bin.sh
 http://175.165.87.230:58417/i
 http://175.9.154.249:55944/i
 http://176.239.8.108:64214/bin.sh
+http://176.65.139.136/debug
 http://176.65.139.160/arm5
 http://176.65.139.166:8080/iran.aarch64
 http://176.65.139.166:8080/iran.arc
 http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.armv5l
 http://176.65.139.166:8080/iran.armv6l
+http://176.65.139.166:8080/iran.armv7l
 http://176.65.139.166:8080/iran.m68k
 http://176.65.139.166:8080/iran.mips
 http://176.65.139.166:8080/iran.mipsel
@@ -16261,6 +16269,7 @@ http://176.65.139.169/pid.arm8
 http://176.65.139.169/pid.mips
 http://176.65.139.169/pid.ppc
 http://176.65.139.169/riscv64
+http://176.65.139.169/s390x
 http://176.65.139.169/x86_64
 http://176.65.139.209/bins/i686
 http://176.65.139.209/bins/mpsl
@@ -16400,7 +16409,9 @@ http://219.157.133.197:42036/i
 http://219.157.2.171:43933/i
 http://219.157.52.153:49181/bin.sh
 http://219.157.52.153:49181/i
+http://220.164.23.33:49708/bin.sh
 http://220.164.23.33:49708/i
+http://220.168.237.96:60522/i
 http://220.202.91.248:55001/bin.sh
 http://221.1.246.222:45921/bin.sh
 http://221.1.246.222:45921/i
@@ -16482,6 +16493,7 @@ http://37.28.177.69:45953/i
 http://38.253.224.56:8080/hiddenbin/arm7
 http://38.253.224.56:8080/hiddenbin/bot.x86_64
 http://38.253.224.56:8080/hiddenbin/x86_64
+http://39.65.211.9:41473/bin.sh
 http://39.79.73.59:48970/i
 http://39.90.186.84:35345/i
 http://40.160.135.244:9091/all.sh
@@ -16545,6 +16557,7 @@ http://42.55.6.11:49652/i
 http://42.56.140.178:35036/i
 http://42.57.164.151:60901/i
 http://42.57.184.73:34836/i
+http://42.59.115.48:39564/bin.sh
 http://42.59.247.94:45590/bin.sh
 http://42.6.101.155:34345/i
 http://42.6.56.231:34029/i
@@ -16845,6 +16858,7 @@ https://wunder-fdle.com/
 https://www.eyqw474.com/11load
 https://www.tmcksa.com/phil/pdmjhdk.txt
 https://x.com/TheGentlemen26
+https://xt.33pedia.org/
 https://xt.4toto.net/
 https://xwezrnmm0tf1vd3llbdwl.beer/
 https://ysense.pro/
