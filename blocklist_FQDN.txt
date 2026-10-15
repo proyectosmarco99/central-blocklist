@@ -506,7 +506,6 @@
 2.baiyue.eu.org
 2.dns.noridev.moe
 2.dnscrypt-cert.browser.yandex.net
-2.dnscrypt-cert.quad9.net
 2.thetravelingtourguide.com
 20010114.xyz
 200779.xyz
@@ -1681,7 +1680,6 @@ alohabrowser.app
 alohabrowser.com
 alohaprofile.com
 alon93rus.ru
-alpha-dns.quad9.net
 alpha.cixy.xyz
 alpha.y.glenwaverleychurches.org
 alphabr.online
@@ -3278,7 +3276,6 @@ cloudbob.fr
 cloudburstcdn.com
 cloudemulator.net
 cloudflaracdn.com
-cloudflare-dns.com
 cloudflare-gateway.com
 cloudflaredns.com
 cloudflareresolve.com
@@ -3379,6 +3376,7 @@ connectkuailianvpn.com
 connectrly.com
 connecttossowin.com
 conserveint.com
+conservesolution.ae
 consumervpn.trendmicro.com
 contassh.com
 contentabc.com
@@ -4300,7 +4298,6 @@ dns-idx2.itsec.my.id
 dns-lb.unpak.ac.id
 dns-malwaresec.nordthreatprotection.com
 dns-mum.daryllswer.net
-dns-nosec.quad9.net
 dns-nyc.aaflalo.me
 dns-one.lins.co.tt
 dns-ovh.panszelescik.pl
@@ -4470,7 +4467,6 @@ dns.clickhost.xyz
 dns.clickitsolutionsllc.com
 dns.cloud.ionutl.ro
 dns.cloudfiction.eu
-dns.cloudflare.com
 dns.cloudseriousshit.com
 dns.cloudtrust.solutions
 dns.cmrg.net
@@ -4623,8 +4619,6 @@ dns.glsoft.ai
 dns.gnb09.id
 dns.goertz.digital
 dns.goldplate.org
-dns.google
-dns.google.com
 dns.goshawk22.uk
 dns.griffioen.me
 dns.grinevich.eu
@@ -4938,7 +4932,6 @@ dns.qkc.fr
 dns.qpt.one
 dns.qq.com
 dns.qrtz.club
-dns.quad9.net
 dns.quanhd.net
 dns.quickline.ch
 dns.quiet.rocks
@@ -5083,7 +5076,6 @@ dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
 dns.uk-london-1.oraclecloud.com
-dns.umbrella.com
 dns.unerror.network
 dns.unitech.company
 dns.unknown-universe.co.uk
@@ -5211,10 +5203,6 @@ dns1.thylacine.co.nz
 dns1.timothy-dev.com
 dns1.understandingcyber.co.uk
 dns1.wyss.network
-dns10.quad9.net
-dns11.quad9.net
-dns12.quad9.net
-dns13.quad9.net
 dns19.854000.xyz
 dns2.afastserver.com
 dns2.anuar.me
@@ -5259,7 +5247,6 @@ dns4eu.online
 dns4me.net
 dns6.web.id
 dns8.org
-dns9.quad9.net
 dnsbk.wns.watch
 dnsblock.grisumedia.de
 dnsbycomodo.com
@@ -5519,7 +5506,6 @@ doh.totoro.pub
 doh.tritan-bb.net
 doh.tsmu.co.id
 doh.ultradns.com
-doh.umbrella.com
 doh.unveildns.com
 doh.us.moe.tips
 doh.valscosmos.com
@@ -6238,7 +6224,6 @@ ewanw15.net
 ewanwzz.net
 eweyo.duckdns.org
 ewkimppj.com
-ewon.biz
 ewrthyyhjterrxftyuhujtdr-6-udthvb-6-beta.vercel.app
 example.myclarevision.com
 excel.theme.ryansilvester.com
@@ -6685,6 +6670,7 @@ finevpn.org
 finishinstal.com
 finishthought.xyz
 finquest.work
+fire-iptv.uk
 firecracker.clean.abrdns.com
 fireinspector.xyz
 fireprox.net
@@ -7290,8 +7276,6 @@ goodfast.it.com
 goodfast.org
 goodfast.xyz
 goodusa.net
-google-public-dns-a.google.com
-google-public-dns-b.google.com
 google-search-s.easterndns.com
 google.unicoridor.ru
 googlecloud365.blog
@@ -9716,6 +9700,7 @@ madeinchile.io
 madeinchina1987.zapto.org
 magiccloak.net
 maherhost.uk
+mahjongwin777.world
 mahjongwin888.world
 mahnor.com
 mahoomahtab.ir
@@ -10854,7 +10839,6 @@ omorkovka.ru
 onards.am
 onconnect.info
 one.horizon555.co.uk
-one.one.one.one
 onecat.cloud
 onecat01-ltya8xek.top
 onecat02-03lkvnye.top
@@ -10908,8 +10892,6 @@ openapi.website
 openbld.net
 opencdn.jomodns.com
 openclash.org
-opendns.com
-opendns.one
 opendoh.com
 opener.website
 opengw.net
@@ -12118,6 +12100,7 @@ res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
 res.zijji.com
+rescuekings.com
 research.africa.com
 research.readymindit.com
 resisttake.com
@@ -12296,6 +12279,8 @@ run.golgoli2.co.uk
 rungame20.com
 runnervamp.net
 runnigga.run.cdn.cloudflare.net
+rupiahmahjong2.space
+rupiahtogel77.space
 rupiahtotal10k.online
 rur3c58hk2l6b4wspfaewp.beer
 rusa.loan
@@ -13292,7 +13277,6 @@ takomc.com
 talc.network
 talesfiction.com
 taleworld.org
-talk2m.com
 talked.run
 talkfirst.ru
 talopruoqlzaok.lat
@@ -13727,6 +13711,7 @@ tu1jm4fk.com
 tuandns.duckdns.org
 tubeprox.com
 tubevpn.help
+tubidy.study
 tuffled-getit-pleaselaugh.newlifesanctuarychurch.com
 tuffmango.edu.showmyhomes.com
 tujdixrq.com
@@ -14352,6 +14337,7 @@ vladpro.ru
 vles.space
 vless-1vpn-android.europe-west1.firebasedatabase.app
 vless.dev
+vlessi.net
 vlessvpn.help
 vlessvpn.info
 vlgbwvqvhjrmy1yswbyscej.online
@@ -15984,12 +15970,14 @@ http://115.56.160.116:50789/bin.sh
 http://115.56.181.20:55348/i
 http://115.57.239.216:55215/bin.sh
 http://115.57.239.216:55215/i
+http://115.57.60.50:55893/i
 http://115.58.179.240:40854/bin.sh
 http://115.58.179.240:40854/i
 http://115.59.228.174:52120/bin.sh
 http://115.61.115.27:49429/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.67:57569/bin.sh
+http://115.62.177.67:57569/i
 http://115.63.14.84:51614/i
 http://115.63.75.92:34648/i
 http://115.99.114.27:52342/bin.sh
@@ -16008,8 +15996,11 @@ http://119.114.134.132:51983/bin.sh
 http://119.115.164.178:32954/bin.sh
 http://119.115.164.178:32954/i
 http://119.115.254.82:54198/bin.sh
+http://119.117.251.43:56180/bin.sh
+http://119.166.65.199:53016/bin.sh
 http://119.183.26.169:57722/i
 http://120.28.135.4:56775/i
+http://120.28.153.108:41321/i
 http://120.28.167.203:41366/i
 http://120.28.189.218:59232/i
 http://120.28.192.219:39732/bin.sh
@@ -16018,6 +16009,7 @@ http://120.43.54.167:46074/i
 http://120.84.212.113:55570/i
 http://120.84.212.206:35060/bin.sh
 http://120.84.214.107:42447/i
+http://120.86.145.22:55411/i
 http://123.10.69.248:36801/i
 http://123.11.0.252:47057/i
 http://123.11.121.151:40677/bin.sh
@@ -16068,7 +16060,9 @@ http://130.12.180.212/armv5l
 http://130.12.180.212/armv6l
 http://130.12.180.212/armv7
 http://130.12.180.212/i386
+http://130.12.180.212/i486
 http://130.12.180.212/i686
+http://130.12.180.212/mips64
 http://130.12.180.212/mips64el
 http://130.12.180.212/mipsel
 http://130.12.180.212/mipsle
@@ -16081,6 +16075,7 @@ http://130.12.180.212/x64
 http://130.12.180.212/x86
 http://130.12.180.212/x86-64
 http://130.12.180.212/x86_64
+http://139.135.40.51:47099/Mozi.m
 http://14.205.104.200:56814/Mozi.m
 http://147.45.116.134/72img_021534.png
 http://148.66.17.122:60003/?h=148.66.17.122&p=60003&t=ws&a=w32&stage=true
@@ -16160,6 +16155,7 @@ http://176.65.139.166:8080/iran.aarch64
 http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.armv5l
 http://176.65.139.166:8080/iran.armv6l
+http://176.65.139.166:8080/iran.mips
 http://176.65.139.166:8080/iran.mipsel
 http://176.65.139.166:8080/iran.sh4
 http://176.65.139.166:8080/iran.sparc
@@ -16193,6 +16189,7 @@ http://176.65.139.231/mirai.mips
 http://176.65.139.231/mirai.x86
 http://176.65.139.231:8080/tadashi/tadashi.x64
 http://176.65.139.40/tot
+http://176.65.139.41/aarch64
 http://176.65.139.41/armv5
 http://176.65.139.41/armv7-l7
 http://176.65.139.41/lel.sh
@@ -16209,6 +16206,7 @@ http://176.65.139.41/x86
 http://179.49.213.85:33153/i
 http://180.103.174.195:47196/bin.sh
 http://180.103.174.195:47196/i
+http://180.115.65.152:44326/bin.sh
 http://180.149.219.213:53810/i
 http://180.190.188.110:51985/i
 http://180.190.202.146:57951/bin.sh
@@ -16224,6 +16222,7 @@ http://182.113.203.175:59417/bin.sh
 http://182.113.203.175:59417/i
 http://182.113.206.103:52681/bin.sh
 http://182.113.25.83:46080/i
+http://182.114.33.57:43016/bin.sh
 http://182.114.35.23:43016/i
 http://182.116.115.77:46115/bin.sh
 http://182.116.115.77:46115/i
@@ -16238,6 +16237,7 @@ http://182.117.31.73:59387/bin.sh
 http://182.117.76.135:52817/i
 http://182.117.79.167:52750/bin.sh
 http://182.119.186.189:39523/bin.sh
+http://182.119.186.189:39523/i
 http://182.120.3.227:56821/bin.sh
 http://182.120.3.227:56821/i
 http://182.121.156.64:56808/bin.sh
@@ -16264,6 +16264,7 @@ http://193.178.158.57/bin/0d96f1b3812d6a4c_build_x64.exe
 http://193.178.158.57/bin/4e984c028b501402_pyinfector.exe
 http://193.178.158.57/bin/cc58391f679b5479_CryptoClipper.exe
 http://193.187.101.209:55899/bin.sh
+http://193.93.228.160:56974/i
 http://196.151.248.162:47591/bin.sh
 http://196.189.197.131:35262/bin.sh
 http://196.189.35.172:59888/i
@@ -16330,9 +16331,11 @@ http://222.138.216.248:49409/i
 http://222.139.44.122:60548/i
 http://222.139.67.114:59134/bin.sh
 http://222.141.133.202:47343/i
+http://222.141.142.185:60846/bin.sh
 http://222.141.142.185:60846/i
 http://222.141.40.236:50078/bin.sh
 http://222.141.73.146:57830/i
+http://222.141.97.98:39460/bin.sh
 http://222.141.97.98:39460/i
 http://222.220.145.39:43434/i
 http://223.10.5.93:34533/i
@@ -16473,6 +16476,7 @@ http://45.198.224.34/0upx86
 http://46.236.65.235:49018/bin.sh
 http://47.102.102.45:9006/linux
 http://5.167.126.229:59635/i
+http://5.83.134.80:24331/tadashi.arm7
 http://58.21.122.54:53319/i
 http://58.22.19.96:48437/i
 http://59.58.106.125:59098/bin.sh
@@ -16528,10 +16532,12 @@ http://85.185.55.80:56473/bin.sh
 http://85.185.55.80:56473/i
 http://89.43.223.227:37974/i
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
+http://94.154.43.26/main_arm5
 http://94.154.43.26/main_ppc
 http://94.154.43.26/main_sh4
 http://94.154.43.26/main_x86_64
 http://94.67.152.120:49503/i
+http://95.15.69.204:38775/bin.sh
 http://95.15.69.204:38775/i
 http://95.237.154.159:51303/i
 http://96.246.230.97:34605/i
@@ -16548,6 +16554,7 @@ https://actorsspotlight.com/
 https://anibusclientpro.netlify.app/download
 https://aoclbl1a7jy7swo9b0kk.beer/
 https://blackiron.co.uk/
+https://bm45m70ol5ave2fopggr4q.beer/
 https://boss1huesos.cc/
 https://briannacorporation.com/cap/Chored.cur
 https://briannacorporation.com/cap/eZlHodoWq46.bin
@@ -16602,6 +16609,7 @@ https://github.com/champywiss/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/deelcis/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
 https://github.com/feedlixs/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
+https://github.com/hannertMAX/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/hantorrgess/Verox-GTA-Enhanced/raw/HEAD/Verox.exe
 https://github.com/iceclerryk/redENGINE-FiveM/raw/HEAD/Loader.exe
 https://github.com/jehhlyk/Fluxus-Roblox-Executor/raw/HEAD/Fluxus%20V7.exe
@@ -16612,7 +16620,9 @@ https://github.com/limmadays/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/rarr1ve/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/sevv1lsy/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/shademilliage/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/shellmadys/DMA-Spoofer/raw/HEAD/DMA_Spoofer.exe
 https://github.com/sizzenls/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
+https://github.com/skannyraws/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/stellacriss/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/stylyshconc/Swift-Executor/raw/HEAD/Swift.exe
 https://github.com/tracc1vs/FortniteExternalCheat/raw/HEAD/Loader.exe
@@ -16679,6 +16689,7 @@ https://voidgame.ink/zalupa/Void%20Launcher.rar?v=1791741131145&r=4np6h3
 https://web03-azureupdate.com/
 https://wunder-fdle.com/
 https://www.eyqw474.com/11load
+https://www.tmcksa.com/phil/pdmjhdk.txt
 https://x.com/TheGentlemen26
 https://xwezrnmm0tf1vd3llbdwl.beer/
 https://ysense.pro/
