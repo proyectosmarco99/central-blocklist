@@ -193,6 +193,8 @@ ruchameditech.com
 rur3c58hk2l6b4wspfaewp.beer
 saetspa.it
 saferyalla.com
+saintjeankerdaniel.com
+sandrock-familie.de
 script-six-tawny.vercel.app
 seaopencd.com
 segagamingnexus.cfd
@@ -601,6 +603,7 @@ http://210.208.110.21:53906/i
 http://210.208.111.36:35182/i
 http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
+http://218.24.252.208:47504/bin.sh
 http://218.28.150.23:42949/bin.sh
 http://219.155.200.85:53694/i
 http://219.155.201.170:46667/bin.sh
