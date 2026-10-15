@@ -16077,6 +16077,7 @@ http://116.10.133.42:48435/i
 http://116.138.218.96:44057/i
 http://116.139.172.245:54006/i
 http://116.139.186.161:34929/i
+http://116.140.187.113:44269/bin.sh
 http://116.140.7.177:35911/bin.sh
 http://116.207.223.13:59439/i
 http://116.209.183.7:51681/bin.sh
@@ -16171,6 +16172,7 @@ http://130.12.180.212/armv4l
 http://130.12.180.212/armv5l
 http://130.12.180.212/armv6l
 http://130.12.180.212/armv7
+http://130.12.180.212/armv7l
 http://130.12.180.212/i386
 http://130.12.180.212/i486
 http://130.12.180.212/i686
@@ -16391,6 +16393,7 @@ http://182.117.163.106:60149/bin.sh
 http://182.117.163.106:60149/i
 http://182.117.31.73:59387/bin.sh
 http://182.117.76.135:52817/i
+http://182.117.76.136:45205/i
 http://182.117.79.167:52750/bin.sh
 http://182.119.186.189:39523/bin.sh
 http://182.119.186.189:39523/i
@@ -16399,6 +16402,7 @@ http://182.120.3.227:56821/i
 http://182.121.156.64:56808/bin.sh
 http://182.121.156.64:56808/i
 http://182.121.221.214:42289/i
+http://182.121.81.61:40929/bin.sh
 http://182.121.81.61:40929/i
 http://182.123.192.144:51851/i
 http://182.124.205.27:51100/i
@@ -16686,6 +16690,7 @@ http://58.22.19.96:48437/i
 http://59.58.106.125:59098/bin.sh
 http://59.96.141.125:52208/i
 http://59.96.142.92:38432/bin.sh
+http://59.96.142.92:38432/i
 http://60.18.101.216:57302/bin.sh
 http://60.18.101.216:57302/i
 http://60.18.212.26:42790/i
@@ -16817,6 +16822,7 @@ https://cdn.discordapp.com/attachments/1557133169877192734/1558848607396823131/b
 https://cdn.discordapp.com/attachments/1557944891575762984/1557945395277996133/bundle_2.zip?ex=6ac9a537&is=6ac853b7&hm=6437d45cffc49ae16bc731d5aa1a09e76f71e006877171928c5be1ab33ccb6a5&
 https://cdn.discordapp.com/attachments/1558090546633904308/1558090607027683399/bundle.zip?ex=6aca2c74&is=6ac8daf4&hm=f368654270984309f3f052b7969d1fdafb6fb00f448a68614de3746823cc20a4&
 https://cdn.discordapp.com/attachments/1558100015321317546/1558450520358654023/bundle_2.zip?ex=6acb7ba6&is=6aca2a26&hm=e00f5777b997bfc71b50b385a548d80bb293af88436931c918351cf9ac471c15&
+https://cdn.discordapp.com/attachments/1558114186817437841/1558114355260948561/bundle.zip?ex=6aca4292&is=6ac8f112&hm=e36aabee94a40f1c93398f5708dd71cd89f70a2b2e4f0233028f00621b5a5f2e&
 https://cdn.discordapp.com/attachments/1558364083370074233/1558364277403033711/bundle_4.zip?ex=6acb2b54&is=6ac9d9d4&hm=ffd2c51dd209735f2a2ccc8de812c0c0f8854b2babe383cab988e03265f1272f&
 https://cdn.discordapp.com/attachments/1558894388057350258/1558894459301658634/bundle.zip?ex=6acd1919&is=6acbc799&hm=e8e16ac6c1a60f6e2550ce451e8b078ddf3a0d35edd62abe8bd6d8c5440ded0e&
 https://cdn.discordapp.com/attachments/588751559681376259/1558186147249922178/bundle_3.zip?ex=6aca856f&is=6ac933ef&hm=caed6be90052bcc12e387eec9349a1d023e94c865e2da5a9964d07bad665b617&
@@ -16824,6 +16830,7 @@ https://creativex5.cc/
 https://dexgqzmok.cloud/
 https://download948.mediafire.com/n9wyk8kgnkegD7ZBt1vcvWeQeaKaUCAGrMgiv2rDHxl3gaKHuzQvgEEyXQJrvJK5URvt8rvmo3bZtJPeYgGih0W2e4hpTmw9E2V5fOYPiiy8S1sOkWZhvt_ZrOSiyNrMAEDCwWOtj6pZsfj9LFOCRMZ6fU3eSV5B5-2R5oS22Xc/z4b06x88erl36fx/Cs2Hack.zip
 https://drive.google.com/uc?export=download&id=14oEkhhftO_xx6X0Db-qpZwUl_arXfhIO
+https://drive.google.com/uc?export=download&id=1L_cku7GNkFeUfFiU2VEsvHDZJbSvzJMx
 https://drive.google.com/uc?export=download&id=1_UZcQfkdBH4WncF92tW54H57khybkee4
 https://ebashim1.com/
 https://ed75a310.infinityindians.pages.dev/ktool.exe
