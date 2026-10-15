@@ -181,8 +181,11 @@ protonvpn.com
 psiphon.ca
 public.boxcloud.com
 raliz.one
+reentryartsconnection.org
+remasa.com
 restaurant.moovent.ch
 rickowenwear.com
+rik-meijer.com
 roundcube-panel.com
 royalxcasino.zone
 roze.click
@@ -325,6 +328,7 @@ http://115.56.157.201:48194/i
 http://115.56.160.116:50789/bin.sh
 http://115.56.181.20:55348/i
 http://115.57.239.216:55215/bin.sh
+http://115.57.239.216:55215/i
 http://115.58.179.240:40854/bin.sh
 http://115.59.228.174:52120/bin.sh
 http://115.61.118.217:37688/i
@@ -616,6 +620,7 @@ http://221.15.185.45:51916/i
 http://221.203.206.182:43811/i
 http://222.127.254.114:34922/i
 http://222.127.50.108:41701/i
+http://222.127.53.189:33656/i
 http://222.127.71.141:36118/bin.sh
 http://222.127.76.40:53819/bin.sh
 http://222.137.154.63:48972/bin.sh
@@ -920,6 +925,7 @@ https://micstndasap.world/img_191633.png
 https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
 https://modhollow.netlify.app/files/opsec/opsec-1.21.11%2Bv1.1.7.1.jar
 https://nr.333vip.org/
+https://origin.nemoclawcloud.com/DvnX.zip
 https://osbot.net/OSBot.jar
 https://osmb.net/OSMB.jar
 https://polar.moe/downloads/PolarLoader.jar
