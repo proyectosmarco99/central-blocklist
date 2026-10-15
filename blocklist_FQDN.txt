@@ -12,6 +12,7 @@
 67sixcebeh.surf
 7wm8zvijixjvah2obebyh.beer
 8jdjpwka.baby
+9bf7j6bzrzzg.ifuckurmomjaffacakes.win
 a2ztraders.in
 aailc.co
 account.box.com
@@ -85,6 +86,7 @@ foipwjgt.paketmalam.vip
 fri-dod-01.cfd
 gabrielleaesthetics.com
 garrikwolfe.com
+gjhome.ovh
 glamping-utopie.com
 gmtn.net.id
 grant-member.pro
@@ -97,6 +99,7 @@ hidemyass.com
 hmsbd.top
 hola.org
 homeschneider.com
+honeytech.net
 hotela.store
 hotspotshield.com
 houzzim.com
@@ -144,6 +147,7 @@ leschampsparadis.fr
 lezo.store
 liciaberry.com
 ligamajestic.shop
+lilyknowsdecor.com
 livto.store
 lxyapp.top
 lydneytownafcyouth.co.uk
@@ -187,6 +191,8 @@ papatty.ir
 parlouredshop.com
 pelakhaft.ir
 peykanrapkon.com
+pgsoftgacor1.space
+pk88vn.dev
 pleasantsims.com
 pobruog.wiki
 poeirahistoria.com.br
@@ -199,6 +205,7 @@ protonvpn.com
 psiphon.ca
 public.boxcloud.com
 raliz.one
+rebakagit.com
 reentryartsconnection.org
 remasa.com
 restaurant.moovent.ch
@@ -278,6 +285,7 @@ wmk77.com
 worldgo.online
 www.bk8casinothai.com
 www.smartlivingstyle.cat
+www82live.com
 xo98poker.com
 xt.33pedia.org
 xwezrnmm0tf1vd3llbdwl.beer
@@ -354,6 +362,7 @@ http://112.248.113.211:39187/i
 http://113.206.97.32:54393/i
 http://113.230.23.74:47203/bin.sh
 http://113.230.23.74:47203/i
+http://113.230.51.234:35025/bin.sh
 http://113.230.51.234:35025/i
 http://113.236.36.200:50471/bin.sh
 http://113.236.36.200:50471/i
@@ -440,6 +449,7 @@ http://123.5.14.37:35948/i
 http://123.5.172.91:57091/i
 http://123.7.227.193:49853/bin.sh
 http://123.9.193.142:43559/bin.sh
+http://123.9.196.5:57018/i
 http://123.9.203.45:54662/bin.sh
 http://123.9.203.45:54662/i
 http://123.9.84.231:39954/i
@@ -485,6 +495,7 @@ http://147.45.116.134/72img_021534.png
 http://148.66.17.122:60003/?h=148.66.17.122&p=60003&t=ws&a=w32&stage=true
 http://148.66.17.125:60003/?h=148.66.17.125&p=60003&t=ws&a=w32&stage=true
 http://151.234.36.221:38747/i
+http://152.42.143.45/api/metrics/run
 http://152.42.143.45/contact
 http://154.223.128.222:52867/bin.sh
 http://154.242.143.151:50387/i
@@ -558,14 +569,17 @@ http://176.65.139.166:8080/iran.aarch64
 http://176.65.139.166:8080/iran.armv4l
 http://176.65.139.166:8080/iran.armv5l
 http://176.65.139.166:8080/iran.armv6l
+http://176.65.139.166:8080/iran.mipsel
 http://176.65.139.166:8080/iran.sh4
 http://176.65.139.166:8080/iran.sparc
 http://176.65.139.169/android-arm
 http://176.65.139.169/android-arm64
+http://176.65.139.169/arm
 http://176.65.139.169/arm5
 http://176.65.139.169/bot.arm
 http://176.65.139.169/bot.x86_64
 http://176.65.139.169/mips
+http://176.65.139.169/pid.arm5
 http://176.65.139.169/pid.arm6
 http://176.65.139.169/pid.arm7
 http://176.65.139.169/pid.arm8
@@ -635,9 +649,12 @@ http://182.117.79.167:52750/bin.sh
 http://182.119.186.189:39523/bin.sh
 http://182.120.3.227:56821/bin.sh
 http://182.120.3.227:56821/i
+http://182.121.156.64:56808/bin.sh
 http://182.121.221.214:42289/i
+http://182.121.81.61:40929/i
 http://182.123.192.144:51851/i
 http://182.124.205.27:51100/i
+http://182.126.90.15:59868/bin.sh
 http://182.126.90.240:41878/bin.sh
 http://182.127.111.22:56903/bin.sh
 http://182.127.111.22:56903/i
@@ -652,6 +669,7 @@ http://182.246.159.52:51415/i
 http://183.35.50.185:40190/i
 http://190.103.72.185:38837/i
 http://193.178.158.107/bin/6fb78459bea435c0_remus.exe
+http://193.178.158.57/bin/0d96f1b3812d6a4c_build_x64.exe
 http://193.178.158.57/bin/4e984c028b501402_pyinfector.exe
 http://193.178.158.57/bin/cc58391f679b5479_CryptoClipper.exe
 http://193.187.101.209:55899/bin.sh
@@ -676,6 +694,7 @@ http://210.208.106.68:36360/i
 http://210.208.110.21:53906/i
 http://210.208.111.36:35182/i
 http://212.54.86.171:51213/bin.sh
+http://216.126.80.56:43357/i
 http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
 http://218.24.252.208:47504/bin.sh
@@ -714,6 +733,7 @@ http://222.137.97.203:53364/bin.sh
 http://222.137.97.203:53364/i
 http://222.138.101.246:41384/i
 http://222.138.148.198:59417/bin.sh
+http://222.138.150.224:42834/i
 http://222.138.150.84:39894/i
 http://222.138.216.248:49409/i
 http://222.139.44.122:60548/i
@@ -917,6 +937,7 @@ http://85.185.55.80:56473/bin.sh
 http://85.185.55.80:56473/i
 http://89.43.223.227:37974/i
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
+http://94.154.43.26/main_ppc
 http://94.154.43.26/main_sh4
 http://94.154.43.26/main_x86_64
 http://94.67.152.120:49503/i
@@ -925,6 +946,7 @@ http://95.237.154.159:51303/i
 http://96.246.230.97:34605/i
 http://arqtsop.shop:9932/documents
 http://fgashub.shop:9932/addresses
+http://phetsre.shop:3452/teams
 http://stanarcservice.com/asset/update.dat
 http://wp.fujeigroup.com:8888/file/img_220945.png
 https://172.235.183.120/
@@ -937,6 +959,7 @@ https://aoclbl1a7jy7swo9b0kk.beer/
 https://blackiron.co.uk/
 https://boss1huesos.cc/
 https://briannacorporation.com/cap/Chored.cur
+https://briannacorporation.com/cap/eZlHodoWq46.bin
 https://brodyagup.com/
 https://brokenheart.club/
 https://brows-check.codes/
@@ -974,6 +997,7 @@ https://file-install.com/
 https://filezilla.cc/serverpython86.exe
 https://fotoschop.cl/Smmrgie.txt
 https://fufelsh-13.com/
+https://gargona-music-prizdec.asia/
 https://getoutofthebackseat.com/HashManager64.zip
 https://github.com/B3at1z/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/Nine23423423/Reload1/raw/refs/heads/main/RtkAudUService.exe
@@ -995,6 +1019,7 @@ https://github.com/l3mmn1ia/Temp-Spoofer-LifeTime/raw/HEAD/TempSpoofer.exe
 https://github.com/lierghs/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/limmadays/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/rarr1ve/EulenCheats/raw/HEAD/Loader.exe
+https://github.com/sevv1lsy/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/shademilliage/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/sizzenls/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/stellacriss/EulenCheats/raw/HEAD/Loader.exe
@@ -1021,13 +1046,16 @@ https://kd06s98zp58kxcst0zywt9.beer/
 https://madmonkeystyle.com/
 https://mc-modhub.vercel.app/mods/dupemod-26.x.jar
 https://micstndasap.world/img_191633.png
+https://minecraftingskins.wiki/
 https://modhollow.netlify.app/files/krypton-client/Krypton%20Client%201.21.11_1.jar
 https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
 https://modhollow.netlify.app/files/opsec/opsec-1.21.11%2Bv1.1.7.1.jar
 https://nr.333vip.org/
+https://nweenwew234.cc/
 https://origin.nemoclawcloud.com/DvnX.zip
 https://osbot.net/OSBot.jar
 https://osmb.net/OSMB.jar
+https://pianolovers.club/
 https://polar.moe/downloads/PolarLoader.jar
 https://pragmaticme1k.cyou/
 https://pragmaticwsg1st.world/
@@ -1039,6 +1067,7 @@ https://rupiahmahjong2.space/
 https://rur3c58hk2l6b4wspfaewp.beer/
 https://rxb.immortales.fun/DivX.zip
 https://simplex.chat/downloads/
+https://simplexy.rest/
 https://situations-clarity-pill-preceding.trycloudflare.com/dl/thwin_ev.exe
 https://sp.negrrwe.info/pnct/ddnmame.txt
 https://stellaspicy.org/2026scrill/RuneLite.exe
@@ -1050,8 +1079,11 @@ https://systemformating.rest/
 https://taunahi.skyblock-qol.com/TaunahiAutoPatch-b7-fabric.jar
 https://torproject.org/download/
 https://tox.chat/download.html
+https://tronzadorasnng.com/img_005350.png
 https://tronzadorasnng.com/img_010548.png
+https://value-dome.club/
 https://voidgame.ink/zalupa/Void%20Launcher.rar?v=1791741131145&r=4np6h3
+https://web03-azureupdate.com/
 https://wunder-fdle.com/
 https://www.eyqw474.com/11load
 https://x.com/TheGentlemen26
