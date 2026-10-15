@@ -9885,6 +9885,7 @@ media.network
 mediahint.com
 mediavpn.com
 medicalschoolcompanion.org
+medinmoc.top
 meela.pages.dev
 mega-mega.cloud
 mega.io
@@ -16017,6 +16018,7 @@ http://114.226.200.81:37474/bin.sh
 http://115.199.56.198:50001/bin.sh
 http://115.206.110.121:47845/i
 http://115.207.84.249:33401/i
+http://115.42.71.239:54178/i
 http://115.48.144.79:58929/bin.sh
 http://115.48.144.79:58929/i
 http://115.48.151.254:59876/i
@@ -16164,10 +16166,12 @@ http://130.12.180.212/t/mipsel
 http://130.12.180.212/x64
 http://130.12.180.212/x86
 http://130.12.180.212/x86-64
+http://130.12.180.212/x86_32
 http://130.12.180.212/x86_64
 http://138.226.247.154/session/8ea0e4ef65dd189c
 http://139.135.40.51:47099/Mozi.m
 http://14.205.104.200:56814/Mozi.m
+http://144.48.130.194:47077/Mozi.m
 http://147.45.116.134/72img_021534.png
 http://148.66.17.122:60003/?h=148.66.17.122&p=60003&t=ws&a=w32&stage=true
 http://148.66.17.125:60003/?h=148.66.17.125&p=60003&t=ws&a=w32&stage=true
@@ -16210,6 +16214,7 @@ http://154.83.85.63:47991/svc-helper-arm
 http://154.83.85.63:47991/svc-helper-mips
 http://154.83.85.63:47991/svc-helper-mipsel
 http://154.83.85.63:47991/svc-helper-x86_64
+http://154.91.180.246:18080/?h=154.91.180.246&p=18080&t=ws&a=l64&stage=true
 http://157.66.146.183:57014/i
 http://160.176.170.101:36032/i
 http://164.163.25.203:58731/i
@@ -16246,6 +16251,7 @@ http://175.165.86.250:39489/bin.sh
 http://175.165.87.230:58417/i
 http://175.9.154.249:55944/i
 http://176.239.8.108:64214/bin.sh
+http://176.65.139.135/dvr.sh
 http://176.65.139.136/debug
 http://176.65.139.160/arm5
 http://176.65.139.166:8080/iran.aarch64
@@ -16273,6 +16279,7 @@ http://176.65.139.169/pid.arm7
 http://176.65.139.169/pid.arm8
 http://176.65.139.169/pid.mips
 http://176.65.139.169/pid.ppc
+http://176.65.139.169/ppc
 http://176.65.139.169/riscv64
 http://176.65.139.169/s390x
 http://176.65.139.169/x86_64
@@ -16821,6 +16828,7 @@ https://modhollow.netlify.app/files/opsec/opsec-1.21.11%2Bv1.1.7.1.jar
 https://niggersmp.net/downloads/Radium_Client.jar
 https://nr.333vip.org/
 https://nweenwew234.cc/
+https://openai-astra.com/
 https://origin.nemoclawcloud.com/DvnX.zip
 https://osbot.net/OSBot.jar
 https://osmb.net/OSMB.jar
@@ -16856,6 +16864,7 @@ https://tox.chat/download.html
 https://tronzadorasnng.com/img_002333.png
 https://tronzadorasnng.com/img_005350.png
 https://tronzadorasnng.com/img_010548.png
+https://unalively.com/nfront.php
 https://usantoniqu.homes/
 https://value-dome.club/
 https://voidgame.ink/zalupa/Void%20Launcher.rar?v=1791732304860&r=0nqqux
