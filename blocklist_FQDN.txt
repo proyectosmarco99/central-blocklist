@@ -16107,6 +16107,7 @@ http://123.13.99.50:60095/bin.sh
 http://123.13.99.50:60095/i
 http://123.14.152.127:46530/bin.sh
 http://123.14.152.127:46530/i
+http://123.14.185.42:42844/i
 http://123.189.176.51:48431/bin.sh
 http://123.233.198.83:52155/bin.sh
 http://123.4.178.130:57978/bin.sh
@@ -16411,10 +16412,12 @@ http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
 http://218.24.252.208:47504/bin.sh
 http://218.28.150.23:42949/bin.sh
+http://219.154.155.199:35205/bin.sh
 http://219.155.200.85:53694/i
 http://219.155.201.170:46667/bin.sh
 http://219.155.237.46:34022/bin.sh
 http://219.155.237.46:34022/i
+http://219.155.62.69:49683/i
 http://219.156.119.243:37129/i
 http://219.156.63.39:37547/bin.sh
 http://219.156.63.39:37547/i
@@ -16450,6 +16453,7 @@ http://222.137.97.203:53364/bin.sh
 http://222.137.97.203:53364/i
 http://222.138.101.246:41384/i
 http://222.138.148.198:59417/bin.sh
+http://222.138.150.224:42834/bin.sh
 http://222.138.150.224:42834/i
 http://222.138.150.84:39894/i
 http://222.138.216.248:49409/i
@@ -16829,6 +16833,7 @@ https://minecraftingskins.wiki/
 https://modhollow.netlify.app/files/krypton-client/Krypton%20Client%201.21.11_1.jar
 https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
 https://modhollow.netlify.app/files/opsec/opsec-1.21.11%2Bv1.1.7.1.jar
+https://niggersmp.net/downloads/4E_Client.jar
 https://niggersmp.net/downloads/Radium_Client.jar
 https://nr.333vip.org/
 https://nweenwew234.cc/
