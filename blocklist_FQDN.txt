@@ -200,7 +200,12 @@ seainternationalcr.com
 seaopencd.com
 segagamingnexus.cfd
 sfo2.digitaloceanspaces.com
+shadetreelearning.com
+shidrealestate.com
+shop.nokill.fr
 ski.blacklabelfremont.com
+smkandcompany.com
+smkn2jember.sch.id
 static-host119-73-101-199.link.net.pk
 status.fernhollow.cc
 stellaspicy.org
@@ -261,6 +266,7 @@ http://103.170.217.170/bins/sora.ppc
 http://103.170.217.170/bins/sora.sh4
 http://103.170.217.170/bins/sora.x86
 http://103.170.217.170/sora.sh
+http://103.172.186.170:44812/bin.sh
 http://103.190.23.91:38586/bin.sh
 http://103.192.204.30:35919/i
 http://103.238.235.250:9999/lol.sh
@@ -859,6 +865,7 @@ https://briannacorporation.com/cap/Chored.cur
 https://brodyagup.com/
 https://brows-check.codes/
 https://burmaldi.cc/
+https://cdn.discordapp.com/attachments/1487471200522207422/1558575558043107509/bundle.zip?ex=6acbf019&is=6aca9e99&hm=e5a387311d1a09297f12483208bb35c284507fccf586bb3af5ba0a08bd441bec&
 https://cdn.discordapp.com/attachments/1519428468599951424/1558057878890221588/bundle.zip?ex=6aca0df9&is=6ac8bc79&hm=c778990da8edb87cc9953a1997b9b988223e71f0dfb4c2aba8061880522c9145&
 https://cdn.discordapp.com/attachments/1519428468599951424/1558507756103663817/bundle.zip?ex=6acbb0f4&is=6aca5f74&hm=19eb8260b081867593529f72653fb354cb2c749336e2a685ec2a240e9c797df3&
 https://cdn.discordapp.com/attachments/1519428468599951424/1558874277275639873/bundle.zip?ex=6acd064e&is=6acbb4ce&hm=2aaf0e96bd284eb57d633f09755dbe56d43db340569798577b9bc24be9feae55&
@@ -868,6 +875,7 @@ https://cdn.discordapp.com/attachments/1548811292536610887/1555955159287201872/6
 https://cdn.discordapp.com/attachments/1549548390751272981/1555954988667113542/opsec-1.21.11-CrackedByDexter.jar?backend=b2&ex=6ac8ff01&is=6ac7ad81&hm=495621443a4b2ffeaee152ecdd0e6db99a74077c550043c0f6653cda754039a9&
 https://cdn.discordapp.com/attachments/1554893100869230603/1555954067048763453/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8fe25&is=6ac7aca5&hm=d4e0c6b375fa4a495ca11fbd00bca4c21ac78349d84321e29c5a878b1eca76b0&
 https://cdn.discordapp.com/attachments/1554903458677653595/1558784934804725800/bundle_3.zip?ex=6accb319&is=6acb6199&hm=3cc7fdd091847c025b03666b4c269e011bbcb4ab462e51e416d0006915821854&
+https://cdn.discordapp.com/attachments/1555272738183061585/1558557133245780058/bundle.zip?ex=6acbdef1&is=6aca8d71&hm=8daaf74111ef8826e79aab5a6931905012f0acbe8b1164f6a3209b1474b38780&
 https://cdn.discordapp.com/attachments/1555272738183061585/1558572762866389032/bundle.zip?ex=6acbed7f&is=6aca9bff&hm=cb9d93f21b681de5d2665a2bf65260efd7a33c43dee7c91b58ee1d4354b66967&
 https://cdn.discordapp.com/attachments/1555273446441881600/1558075552412344351/bundle_1.zip?ex=6aca1e6f&is=6ac8ccef&hm=c693cad9ae038f0226317909a6df51d7dc5c389429612a19c970e648b9d18a57&
 https://cdn.discordapp.com/attachments/1557133169877192734/1557824344401387601/bundle.zip?ex=6ac9347a&is=6ac7e2fa&hm=2a5f26806d9c70a78cb91291d892ac9e9bc378a37ecbe88088c3af02e6eac519&
@@ -950,6 +958,7 @@ https://stellaspicy.org/2026scrill/client.jar
 https://stellaspicy.org/2026scrill/ping.php
 https://stellaspicy.org/2026scrill/webhook.php
 https://systemformating.rest/
+https://taunahi.skyblock-qol.com/TaunahiAutoPatch-b7-fabric.jar
 https://torproject.org/download/
 https://tox.chat/download.html
 https://tronzadorasnng.com/img_010548.png
