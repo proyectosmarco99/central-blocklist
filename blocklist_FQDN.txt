@@ -480,6 +480,7 @@
 1f76a2ba920d.space
 1k3j1blg.com
 1ldlv4m7.com
+1lpwxzik.lunza.store
 1proxy.de
 1proxy.in
 1qudbw7oug.duckdns.org
@@ -866,6 +867,7 @@
 883188.xyz
 886110.xyz
 8888.google
+889993536.xyz
 89.theartieschaffer.com
 890634.xyz
 89fae67a1b1016ca7c514c42713ec6232f374943.com
@@ -2687,6 +2689,7 @@ boltrena.ru
 boltunblocker.com
 boltvpn.org
 bonanza1jepe.space
+bonanzagac0r1.online
 bongaentertainment.com
 booeuu.com
 booiuu.com
@@ -2749,6 +2752,7 @@ brightdata.com
 brightfuture.bostoncareercounselor.com
 brightfuture.ltu.one.pl
 brightleaflife.com
+brightmarkconsultingltd.com
 brightvpn.com
 brightvpn.pro
 bringover.net
@@ -6157,6 +6161,7 @@ enproxy.com
 eofgame.app
 eofvpn.cc
 eofvpn.com
+eombridge.com
 eonvpn.com
 epicrisis.luminiferous.abrdns.com
 epolx.xyz
@@ -7009,6 +7014,7 @@ g7y.ooguy.com
 gabrielantuneso.lat
 gabrielleaesthetics.com
 gabstorm.com
+gacor2025win.site
 gaepvnrv.com
 gafqfqw.com
 gagagaga2.freeddns.us
@@ -7455,6 +7461,7 @@ gyatt.networkguru.com
 gyattmath.buzz
 gyattmath.buzz.cdn.cloudflare.net
 gyhujikhuhu.easterndns.com
+gypsysouldreaming.com
 gyrfalconvpn.mom
 gytzedhbi.ipv64.net
 gztech.me
@@ -8326,6 +8333,8 @@ infvpn.com
 ingameland.com
 ingamesmall.com
 ingpras.one
+inkfold-ext.com
+inlife.icu
 inmkayandisuck.info.north-kazakhstan.su.cdn.cloudflare.net
 inngoturbo.com
 innov-windows.s3.us-east-2.amazonaws.com
@@ -8381,6 +8390,7 @@ iosedge.com
 iosequence.online
 iosjiasu.net
 iosp33beec-20c12.kxcdn.com
+ioss.si
 iossync.com
 iow-dns.bitdefender.net
 ioxy.de
@@ -9745,6 +9755,7 @@ mangshe.org
 maning.pro
 manually-relaxed-alien.global.ssl.fastly.net
 manusapi.online
+manuscriptrevision.com
 maple-leaf-cafe.com
 maplecadence.com
 mapspublications.us
@@ -11494,11 +11505,13 @@ proariel.dns-dynamic.net
 prod-static.nascarnash.com
 productpalace.pk
 professorpaulomoraes.com
+prognosisinfo.in
 prohashing.com
 proigor.com
 prointern.info
 project-cyber.com
 project-evoex.de
+project.pm
 projectsgoeasy.ru
 prompt.flight.abrdns.com
 prontovpn.help
@@ -11970,6 +11983,7 @@ rafi.dynns.com
 rahavard365.co
 raidnas.xyz
 raininglondon.com
+rajaslot777.world
 raliz.one
 ram.kdot.cam
 rameo.myclarevision.com
@@ -12148,6 +12162,7 @@ resov.wehao.net
 restaurant.moovent.ch
 restaurantgift.us
 restena.lu
+resulttopwin1st.world
 rethinkdns.com
 returnofzack2026.nondestructivetesting.ca
 revelio.top
@@ -14002,6 +14017,8 @@ uproxy2.net
 uproxy2.org
 uproxy2.xyz
 upsidedowntext.top
+upsurge.solutions
+upvod.net
 upvpn.app
 upx-vpn.com
 uqnfba.com
@@ -15221,6 +15238,7 @@ www.securly.com.jackietian.com
 www.smartlivingstyle.cat
 www.souer.kozow.com
 www.uhutg.nas64.de
+www.vansbeauty.de
 www.yowus.html-5.me
 www.yuzutyan-3.ipv64.net
 www82live.com
@@ -16002,6 +16020,7 @@ http://116.138.218.96:44057/i
 http://116.139.172.245:54006/i
 http://116.140.7.177:35911/bin.sh
 http://116.207.223.13:59439/i
+http://116.209.183.7:51681/bin.sh
 http://117.245.138.57:51324/i
 http://117.63.9.109:43512/i
 http://118.251.12.82:40560/bin.sh
@@ -16066,9 +16085,11 @@ http://130.0.43.154:57792/bin.sh
 http://130.12.180.212/M68K
 http://130.12.180.212/SH4
 http://130.12.180.212/amd64
+http://130.12.180.212/arm
 http://130.12.180.212/arm4
 http://130.12.180.212/arm6
 http://130.12.180.212/arm64
+http://130.12.180.212/arm7n
 http://130.12.180.212/armhf
 http://130.12.180.212/armv4l
 http://130.12.180.212/armv5l
@@ -16166,6 +16187,7 @@ http://175.149.88.179:34166/bin.sh
 http://175.150.255.147:45190/bin.sh
 http://175.151.180.248:33943/i
 http://175.165.86.250:39489/bin.sh
+http://175.165.87.230:58417/i
 http://175.9.154.249:55944/i
 http://176.65.139.160/arm5
 http://176.65.139.166:8080/iran.aarch64
@@ -16195,6 +16217,7 @@ http://176.65.139.169/x86_64
 http://176.65.139.209/bins/i686
 http://176.65.139.209/bins/mpsl
 http://176.65.139.217/bins/sora.x86_64
+http://176.65.139.231/bins/morte.arc
 http://176.65.139.231/bins/morte.arm
 http://176.65.139.231/bins/morte.arm5
 http://176.65.139.231/bins/morte.arm7
@@ -16295,6 +16318,7 @@ http://196.189.98.77:41820/i
 http://196.190.69.149:39184/i
 http://196.190.69.149:54152/i
 http://196.74.47.206:34746/i
+http://2.27.14.196:889/champ
 http://2.85.58.246:49503/bin.sh
 http://201.159.91.2:41978/Mozi.m
 http://201.159.91.2:41978/bin.sh
@@ -16393,6 +16417,7 @@ http://27.215.55.107:33268/bin.sh
 http://27.215.82.47:49476/bin.sh
 http://27.215.82.47:49476/i
 http://27.219.118.7:41917/bin.sh
+http://27.37.225.158:33778/i
 http://27.44.145.224:34472/bin.sh
 http://27.44.145.224:34472/i
 http://36.70.140.206:51974/i
@@ -16494,6 +16519,7 @@ http://45.198.224.34/0uparm6
 http://45.198.224.34/0uparm7
 http://45.198.224.34/0upm68k
 http://45.198.224.34/0upmips
+http://45.198.224.34/0upmpsl
 http://45.198.224.34/0upppc
 http://45.198.224.34/0upsh4
 http://45.198.224.34/0upspc
@@ -16521,6 +16547,7 @@ http://61.52.92.74:36216/bin.sh
 http://61.53.135.191:48339/i
 http://61.53.15.189:56888/i
 http://61.53.150.241:45354/i
+http://61.53.93.49:38979/bin.sh
 http://63.245.153.41:37905/i
 http://64.235.45.196/api.exe
 http://64.235.45.196/api2.exe
@@ -16565,6 +16592,7 @@ http://94.154.43.26/main_arm6
 http://94.154.43.26/main_mips
 http://94.154.43.26/main_ppc
 http://94.154.43.26/main_sh4
+http://94.154.43.26/main_x86
 http://94.154.43.26/main_x86_64
 http://94.67.152.120:49503/i
 http://95.15.69.204:38775/bin.sh
@@ -16602,6 +16630,7 @@ https://cdn.discordapp.com/attachments/1540151072461553724/1558782952987562024/b
 https://cdn.discordapp.com/attachments/1548811185716068484/1555955351206105219/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8ff57&is=6ac7add7&hm=30ee7fe8b95274195e39d69d6e7cb98ba63a847928ffd36d4a10117f56ece837&
 https://cdn.discordapp.com/attachments/1548811292536610887/1555955159287201872/67client-CrackedByDexter.jar?backend=b2&ex=6ac8ff2a&is=6ac7adaa&hm=9a556ee8f2a04bb6bf7b6e0d48dd9f70c6c11e1956a9c12895ffd3d2051a835f&
 https://cdn.discordapp.com/attachments/1549548390751272981/1555954988667113542/opsec-1.21.11-CrackedByDexter.jar?backend=b2&ex=6ac8ff01&is=6ac7ad81&hm=495621443a4b2ffeaee152ecdd0e6db99a74077c550043c0f6653cda754039a9&
+https://cdn.discordapp.com/attachments/1554373007819014229/1558219073161138186/bundle1.zip?ex=6acaa419&is=6ac95299&hm=fa6648fcec9a979c9d2264ff4bc3876e20722df68a2bcc323ae3486cbeff6f06&
 https://cdn.discordapp.com/attachments/1554893100869230603/1555954067048763453/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8fe25&is=6ac7aca5&hm=d4e0c6b375fa4a495ca11fbd00bca4c21ac78349d84321e29c5a878b1eca76b0&
 https://cdn.discordapp.com/attachments/1554903458677653595/1558784934804725800/bundle_3.zip?ex=6accb319&is=6acb6199&hm=3cc7fdd091847c025b03666b4c269e011bbcb4ab462e51e416d0006915821854&
 https://cdn.discordapp.com/attachments/1555272738183061585/1558557133245780058/bundle.zip?ex=6acbdef1&is=6aca8d71&hm=8daaf74111ef8826e79aab5a6931905012f0acbe8b1164f6a3209b1474b38780&
@@ -16615,6 +16644,7 @@ https://cdn.discordapp.com/attachments/1558364083370074233/1558364277403033711/b
 https://cdn.discordapp.com/attachments/1558894388057350258/1558894459301658634/bundle.zip?ex=6acd1919&is=6acbc799&hm=e8e16ac6c1a60f6e2550ce451e8b078ddf3a0d35edd62abe8bd6d8c5440ded0e&
 https://creativex5.cc/
 https://dexgqzmok.cloud/
+https://download948.mediafire.com/n9wyk8kgnkegD7ZBt1vcvWeQeaKaUCAGrMgiv2rDHxl3gaKHuzQvgEEyXQJrvJK5URvt8rvmo3bZtJPeYgGih0W2e4hpTmw9E2V5fOYPiiy8S1sOkWZhvt_ZrOSiyNrMAEDCwWOtj6pZsfj9LFOCRMZ6fU3eSV5B5-2R5oS22Xc/z4b06x88erl36fx/Cs2Hack.zip
 https://drive.google.com/uc?export=download&id=14oEkhhftO_xx6X0Db-qpZwUl_arXfhIO
 https://drive.google.com/uc?export=download&id=1_UZcQfkdBH4WncF92tW54H57khybkee4
 https://ebashim1.com/
@@ -16638,10 +16668,12 @@ https://github.com/akkcoc521-blip/honeyrobloxx/releases/download/downladoa/dsalk
 https://github.com/archcalls/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/archrace/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/bonnylith/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/candyblow/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/champywiss/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/deelcis/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/dirlands/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
+https://github.com/enzowipe/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/feedlixs/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/hannertMAX/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/hantorrgess/Verox-GTA-Enhanced/raw/HEAD/Verox.exe
@@ -16662,7 +16694,9 @@ https://github.com/stellacriss/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/stylyshconc/Swift-Executor/raw/HEAD/Swift.exe
 https://github.com/tracc1vs/FortniteExternalCheat/raw/HEAD/Loader.exe
 https://github.com/vall3stecch/EulenCheats/raw/HEAD/Loader.exe
+https://github.com/voicesinari/Warzone-Dominator/raw/HEAD/Loader.exe
 https://github.com/wakkaflipps/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
+https://github.com/washington0812/FiveM-Spoofer/raw/HEAD/CFXBypass.exe
 https://gitlab.com/AmillyRow/quantv-sp-fivem-ragemp-altv/-/raw/main/QuantV_Latest_2026.zip
 https://gitlab.com/Devilsprite/xeno-executor/-/raw/main/XenoExecutor.zip
 https://gitlab.com/LoraHex/lunaexecutor/-/raw/HEAD/LunaExecutor.zip
@@ -16694,6 +16728,8 @@ https://osbot.net/OSBot.jar
 https://osmb.net/OSMB.jar
 https://pianolovers.club/
 https://polar.moe/downloads/PolarLoader.jar
+https://pragmatic321.site/
+https://pragmatic500jp.online/
 https://pragmaticme1k.cyou/
 https://pragmaticwsg1st.world/
 https://qq-0732gwh22.com/
@@ -16718,6 +16754,7 @@ https://systemformating.rest/
 https://taunahi.skyblock-qol.com/TaunahiAutoPatch-b7-fabric.jar
 https://torproject.org/download/
 https://tox.chat/download.html
+https://tronzadorasnng.com/img_002333.png
 https://tronzadorasnng.com/img_005350.png
 https://tronzadorasnng.com/img_010548.png
 https://value-dome.club/
@@ -16727,6 +16764,8 @@ https://wunder-fdle.com/
 https://www.eyqw474.com/11load
 https://www.tmcksa.com/phil/pdmjhdk.txt
 https://x.com/TheGentlemen26
+https://xt.4toto.net/
 https://xwezrnmm0tf1vd3llbdwl.beer/
 https://ysense.pro/
+https://zeus773jpe.online/
 https://zolotoy.club/
