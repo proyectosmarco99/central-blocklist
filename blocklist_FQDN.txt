@@ -4111,6 +4111,7 @@ decklearenr.amerid.abrdns.com
 decloudus.com
 decodo.com
 decorous-mouth.surge.sh
+decount.de
 ded-ios.ru
 dedavpn.ru
 dedicated-afflink.com
@@ -6220,6 +6221,7 @@ eu2-browse.startpage.com
 eu3-browse.startpage.com
 eu4-browse.startpage.com
 europe-west3-topvpn-873d5.cloudfunctions.net
+eurototop1win.space
 eurproxy.com
 evaronet.com
 evasive.imiamintesc.ro
@@ -6259,6 +6261,7 @@ exiscos.co.uk
 exns1.exalto.nu
 expatshield.com
 expectmark.com
+explainedendings.com
 exploit.global.ssl.fastly.net
 explore.theoceanforest.com
 explosionlearning.org
@@ -8076,6 +8079,7 @@ hqconsole.com
 hqvpn.net
 hqzmxpta.com
 hr.i81.ru
+hramsvetogapostolapavla.com
 hriscanskaadventistickacrkva.com
 hrkonzultace.cz
 hrsm12181.duckdns.org
@@ -13427,6 +13431,7 @@ testing.registration.abrdns.com
 testing.schoology.status.jorgelisboaantunes.com.br
 testing123.myaddr.tools
 testingtesting123.tms-chel.ru
+testmipagina.com
 testmode.lhost.dev
 testnovin9.ir
 testpilot.firefox.com
@@ -16088,6 +16093,7 @@ http://115.58.177.21:40854/bin.sh
 http://115.58.179.240:40854/bin.sh
 http://115.58.179.240:40854/i
 http://115.59.228.174:52120/bin.sh
+http://115.61.1.172:37327/i
 http://115.61.115.27:49429/bin.sh
 http://115.61.118.217:37688/i
 http://115.62.177.126:54495/i
@@ -16474,6 +16480,7 @@ http://182.126.90.240:41878/bin.sh
 http://182.126.90.240:41878/i
 http://182.127.111.22:56903/bin.sh
 http://182.127.111.22:56903/i
+http://182.127.120.193:37721/i
 http://182.127.179.145:57484/bin.sh
 http://182.127.26.104:52057/bin.sh
 http://182.127.26.104:52057/i
@@ -16627,6 +16634,7 @@ http://23.254.195.48:8099/t5b.so
 http://23.254.195.48:8099/t5c.so
 http://23.254.195.48:8099/t_arm5.so
 http://23.254.195.48:8099/t_armhf.so
+http://27.193.50.197:42610/i
 http://27.194.57.63:60305/bin.sh
 http://27.194.57.63:60305/i
 http://27.202.215.185:51039/i
@@ -16648,6 +16656,7 @@ http://27.37.225.158:33778/i
 http://27.44.145.224:34472/bin.sh
 http://27.44.145.224:34472/i
 http://27.44.146.163:33792/i
+http://27.6.71.251:44076/i
 http://36.49.52.140:36933/Mozi.m
 http://36.50.134.86/arm7
 http://36.50.134.86/debug.dbg
@@ -16767,7 +16776,9 @@ http://45.135.194.96/bins/spc
 http://45.135.194.96/bins/x86
 http://45.135.194.96/bins/x86_64
 http://45.141.27.27/dll/
+http://45.194.88.27:59510/i
 http://45.198.224.34/0uparm
+http://45.198.224.34/0uparm5
 http://45.198.224.34/0uparm6
 http://45.198.224.34/0uparm7
 http://45.198.224.34/0upm68k
@@ -16838,6 +16849,7 @@ http://85.137.53.167:24380/bins/android/akuma_i486
 http://85.137.53.167:24380/bins/android/akuma_i586
 http://85.137.53.167:24380/bins/android/akuma_m68k
 http://85.137.53.167:24380/bins/android/akuma_mips
+http://85.137.53.167:24380/bins/android/akuma_mps64
 http://85.137.53.167:24380/bins/android/akuma_mpsl
 http://85.137.53.167:24380/bins/android/akuma_ppc
 http://85.137.53.167:24380/bins/android/akuma_riscv32
@@ -16950,6 +16962,7 @@ https://cdn.discordapp.com/attachments/1555272738183061585/1558557133245780058/b
 https://cdn.discordapp.com/attachments/1555272738183061585/1558572762866389032/bundle.zip?ex=6acbed7f&is=6aca9bff&hm=cb9d93f21b681de5d2665a2bf65260efd7a33c43dee7c91b58ee1d4354b66967&
 https://cdn.discordapp.com/attachments/1555273446441881600/1558075552412344351/bundle_1.zip?ex=6aca1e6f&is=6ac8ccef&hm=c693cad9ae038f0226317909a6df51d7dc5c389429612a19c970e648b9d18a57&
 https://cdn.discordapp.com/attachments/1557133169877192734/1557824344401387601/bundle.zip?ex=6ac9347a&is=6ac7e2fa&hm=2a5f26806d9c70a78cb91291d892ac9e9bc378a37ecbe88088c3af02e6eac519&
+https://cdn.discordapp.com/attachments/1557133169877192734/1558228090285465730/bundle.zip?ex=6acaac7f&is=6ac95aff&hm=bb44fe8c4acac88ab665d8bc71152b3f45f31e3400264e1c65564af8e85f7d50&
 https://cdn.discordapp.com/attachments/1557133169877192734/1558848607396823131/bundle.zip?ex=6accee66&is=6acb9ce6&hm=5f09ac9e7e84a62635bc25d32c3cb27f24aa00b0c584fce284d914f93291e8ad&
 https://cdn.discordapp.com/attachments/1557944891575762984/1557945395277996133/bundle_2.zip?ex=6ac9a537&is=6ac853b7&hm=6437d45cffc49ae16bc731d5aa1a09e76f71e006877171928c5be1ab33ccb6a5&
 https://cdn.discordapp.com/attachments/1558090546633904308/1558090607027683399/bundle.zip?ex=6aca2c74&is=6ac8daf4&hm=f368654270984309f3f052b7969d1fdafb6fb00f448a68614de3746823cc20a4&
@@ -16983,6 +16996,7 @@ https://fotoschop.cl/Smmrgie.txt
 https://fufelsh-13.com/
 https://gargona-music-prizdec.asia/
 https://getoutofthebackseat.com/HashManager64.zip
+https://gibddru.vercel.app/?download=1
 https://github.com/B3at1z/Umbrella-HWID-Tool/raw/HEAD/Umbrella/Umbrella.exe
 https://github.com/Nine23423423/Reload1/raw/refs/heads/main/RtkAudUService.exe
 https://github.com/Nine23423423/Reload1/raw/refs/heads/main/loader.exe
