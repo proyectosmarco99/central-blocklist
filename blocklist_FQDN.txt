@@ -15985,6 +15985,7 @@ http://103.238.235.250:9999/wj0s.arm
 http://103.238.235.250:9999/wj0s.arm64
 http://103.238.235.250:9999/wj0s.arm7
 http://103.238.235.250:9999/wj0s.i686
+http://103.238.235.250:9999/wj0s.mips
 http://103.238.235.250:9999/wj0s.sh4
 http://103.249.199.5:53439/i
 http://103.31.103.204:40803/bin.sh
@@ -16107,6 +16108,7 @@ http://116.140.187.113:44269/bin.sh
 http://116.140.7.177:35911/bin.sh
 http://116.207.223.13:59439/i
 http://116.209.183.7:51681/bin.sh
+http://116.209.183.7:51681/i
 http://117.134.206.218:41681/Mozi.m
 http://117.245.138.57:51324/i
 http://117.63.9.109:43512/i
@@ -16426,6 +16428,7 @@ http://180.191.49.27:39520/bin.sh
 http://180.245.62.121:48408/bin.sh
 http://180.245.62.121:48408/i
 http://182.112.28.160:37630/i
+http://182.112.41.50:41326/bin.sh
 http://182.112.41.50:41326/i
 http://182.113.191.78:59405/i
 http://182.113.203.175:59417/bin.sh
@@ -16479,6 +16482,7 @@ http://182.239.81.126:58041/i
 http://182.240.194.49:57733/bin.sh
 http://182.246.159.52:51415/i
 http://183.35.50.185:40190/i
+http://188.38.158.163:40685/bin.sh
 http://190.103.72.185:38837/i
 http://193.178.158.107/bin/6cbea551e8cbc1bb_global_8668.3380.0.0_INSTALL.exe
 http://193.178.158.107/bin/6fb78459bea435c0_remus.exe
@@ -16530,6 +16534,7 @@ http://218.16.164.236:37269/bin.sh
 http://218.24.252.208:47504/bin.sh
 http://218.28.150.23:42949/bin.sh
 http://218.90.26.232:42522/bin.sh
+http://218.90.26.232:42522/i
 http://219.154.155.199:35205/bin.sh
 http://219.155.200.85:53694/i
 http://219.155.201.170:46667/bin.sh
@@ -16811,6 +16816,7 @@ http://64.224.17.115/img/2.jpg
 http://64.235.45.196/api.exe
 http://64.235.45.196/api2.exe
 http://66.116.196.142/ezo
+http://72.255.26.71:34632/Mozi.a
 http://77.79.160.210:59889/i
 http://78.187.104.169:35406/bin.sh
 http://78.187.104.169:35406/i
@@ -16889,6 +16895,7 @@ http://stanarcservice.com/asset/update.dat
 http://straely.biz:8531/imports
 http://synerfy.biz:6627/messages
 http://veled.com.tr/api/webhooks/bf275c79b814f8c5/g-aSnkfbqsjQs_HiPlDNR-9FRJC0sdc-
+http://w5q.eu/eclipse.mips
 http://wp.fujeigroup.com:8888/file/img_220945.png
 https://172.235.183.120/
 https://188.245.3.116/
@@ -16929,6 +16936,7 @@ https://cdn.discordapp.com/attachments/1548811292536610887/1555955159287201872/6
 https://cdn.discordapp.com/attachments/1549548390751272981/1555954988667113542/opsec-1.21.11-CrackedByDexter.jar?backend=b2&ex=6ac8ff01&is=6ac7ad81&hm=495621443a4b2ffeaee152ecdd0e6db99a74077c550043c0f6653cda754039a9&
 https://cdn.discordapp.com/attachments/1550498309259657247/1555954844391575632/MVADDON-CrackedByDexter.jar?backend=b2&ex=6ac8fedf&is=6ac7ad5f&hm=040eabcf0360361a39cf6cea01fba5a346c592fcc725489f3112f3ca3f8b284e&
 https://cdn.discordapp.com/attachments/1552380411219288175/1555954669157621871/Ikea_Client-CrackedByDexter.jar?backend=b2&ex=6ac8feb5&is=6ac7ad35&hm=bfdcbbaa3aee72faa061c2ccfa23c4b5d3f4c6640b5e5dd8c3e6d1f0c029d7b6&
+https://cdn.discordapp.com/attachments/1553488282396926035/1558148289726124083/bundle_4.zip?ex=6aca622d&is=6ac910ad&hm=a29f02ede4160432f5f0b145316bb617b54a372d514d06fa425c725e81f9d366&
 https://cdn.discordapp.com/attachments/1553507058844696606/1555956170961854504/DupemodV2-ByDexter.jar?backend=b2&ex=6ac9001b&is=6ac7ae9b&hm=3fa2bf9e9d1e2e1a2f0922f42e35eae758a67f45aaa2a85fea120ceecf68609a&
 https://cdn.discordapp.com/attachments/1553507130621825175/1555956345495228558/DupeModV1-ByDexter.jar?backend=b2&ex=6ac90045&is=6ac7aec5&hm=d109270946e3f8e1f5c6de54f3c7f5bfed7c79c00c564f28ad2919761c2857eb&
 https://cdn.discordapp.com/attachments/1554373007819014229/1558219073161138186/bundle1.zip?ex=6acaa419&is=6ac95299&hm=fa6648fcec9a979c9d2264ff4bc3876e20722df68a2bcc323ae3486cbeff6f06&
@@ -16984,11 +16992,13 @@ https://github.com/artlims/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/blestoff/Monotone-HWID-Spoofer/raw/HEAD/Monotone.exe
 https://github.com/bonnylith/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/candyblow/EulenCheats/raw/HEAD/Loader.exe
+https://github.com/cassiefinney/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/champywiss/Roblox-Script-Executor/raw/HEAD/Wave.exe
 https://github.com/chamysooel/FiveM-Server-Unban/raw/HEAD/Silentum_Spoofer.exe
 https://github.com/channYl9/FiveM-External-Cheat/raw/HEAD/Loader.exe
 https://github.com/clatths/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/deelcis/Roblox-Script-Executor/raw/HEAD/Wave.exe
+https://github.com/derrixhan/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/dirlands/EulenCheats/raw/HEAD/Loader.exe
 https://github.com/discordananisikem-pixel/fenasinbasabelasin/releases/download/n/bundle.3.zip
 https://github.com/enzowipe/EulenCheats/raw/HEAD/Loader.exe
