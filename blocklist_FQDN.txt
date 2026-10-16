@@ -1746,6 +1746,7 @@ ancv.sytes.net
 andprbc0tc-20c12.kxcdn.com
 andrewnw.xyz
 andrey93rus.ru
+androidbaz.com
 androidconnect.fyi
 androidruleonline.xyz
 androidshopweb.rocks
@@ -12056,6 +12057,7 @@ rapidstaticserve.cc
 rapidvpn.app
 rapidvpn.cc
 rapidvpn.com
+raranoodles.com
 rasp.matthias-iwer.de
 raspy-recipe-71c0.workers.dev
 rateavon.je
@@ -16743,6 +16745,7 @@ http://60.22.51.222:45629/i
 http://60.22.8.194:38407/i
 http://60.23.236.49:35040/i
 http://60.23.239.46:47895/i
+http://60.23.77.13:58315/bin.sh
 http://60.23.77.13:58315/i
 http://60.24.126.151:45260/bin.sh
 http://61.52.92.74:36216/bin.sh
