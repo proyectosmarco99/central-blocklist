@@ -16320,6 +16320,7 @@ http://175.149.80.109:35787/i
 http://175.149.88.179:34166/bin.sh
 http://175.150.176.206:45980/bin.sh
 http://175.150.255.147:45190/bin.sh
+http://175.150.255.147:45190/i
 http://175.151.180.248:33943/i
 http://175.165.86.250:39489/bin.sh
 http://175.165.87.230:58417/i
@@ -16347,10 +16348,13 @@ http://176.65.139.169/android-arm
 http://176.65.139.169/android-arm64
 http://176.65.139.169/arm
 http://176.65.139.169/arm5
+http://176.65.139.169/arm6
+http://176.65.139.169/arm7
 http://176.65.139.169/arm8
 http://176.65.139.169/bot.arm
 http://176.65.139.169/bot.x86_64
 http://176.65.139.169/launch.sh
+http://176.65.139.169/m68k
 http://176.65.139.169/mips
 http://176.65.139.169/mips64
 http://176.65.139.169/mipsel
@@ -16686,6 +16690,7 @@ http://42.227.190.233:35825/i
 http://42.227.44.40:34648/bin.sh
 http://42.228.37.155:42735/bin.sh
 http://42.228.37.155:42735/i
+http://42.228.41.178:36712/bin.sh
 http://42.229.175.66:55978/bin.sh
 http://42.230.218.97:45408/i
 http://42.230.34.172:50944/bin.sh
@@ -16712,6 +16717,7 @@ http://42.239.255.151:32965/i
 http://42.4.127.9:48434/bin.sh
 http://42.52.173.208:41569/bin.sh
 http://42.52.192.164:49983/bin.sh
+http://42.52.192.164:49983/i
 http://42.52.20.56:49690/i
 http://42.52.233.42:57947/bin.sh
 http://42.53.2.94:56286/bin.sh
@@ -16885,6 +16891,7 @@ http://synerfy.biz:6627/messages
 http://veled.com.tr/api/webhooks/bf275c79b814f8c5/g-aSnkfbqsjQs_HiPlDNR-9FRJC0sdc-
 http://wp.fujeigroup.com:8888/file/img_220945.png
 https://172.235.183.120/
+https://188.245.3.116/
 https://1rvrental.com/g.php
 https://212.147.244.162/
 https://217.60.102.185/
@@ -16892,6 +16899,7 @@ https://2ti34h1lzcapw2f3rt8mfs.beer/
 https://38.180.162.39/app/apk
 https://3o3irtt8p0eztfqlkeso.beer/
 https://4dm3itrtps8m2grskrqygf.beer/
+https://77.42.10.33/
 https://7ujni7galhy2l8y6431l.beer/
 https://7wm8zvijixjvah2obebyh.beer/
 https://832nw30kq5rb0j4onh9tfw.beer/
@@ -17047,6 +17055,7 @@ https://modhollow.netlify.app/files/meteor-client/meteor-client-1.21.11-86.jar
 https://modhollow.netlify.app/files/opsec/opsec-1.21.11%2Bv1.1.7.1.jar
 https://niggersmp.net/downloads/4E_Client.jar
 https://niggersmp.net/downloads/Radium_Client.jar
+https://njgymyclrf1pntn06lgjm.beer/
 https://nr.333vip.org/
 https://nweenwew234.cc/
 https://openai-astra.com/
@@ -17058,17 +17067,21 @@ https://polar.moe/downloads/PolarLoader.jar
 https://pragmatic321.site/
 https://pragmatic500jp.online/
 https://pragmaticgacor01.world/
+https://pragmaticgacor1.world/
 https://pragmaticme1k.cyou/
+https://pragmaticws1.world/
 https://pragmaticwsg1st.world/
 https://prediksi666slot.space/
 https://pub-53fe969c6db649fba6466eb765f54359.r2.dev/gvaqnm.png
 https://qq-0732gwh22.com/
+https://qris100gacor.space/
 https://rajaslot321.site/
 https://raw.githubusercontent.com/Karinatt0/file/d5c3219dfcec05e58843f4c4b6e5bd78cbed634d/img_015611.png
 https://raw.githubusercontent.com/Karinatt0/file/d5c3219dfcec05e58843f4c4b6e5bd78cbed634d/img_053520.png
 https://raw.githubusercontent.com/Karinatt0/file/d5c3219dfcec05e58843f4c4b6e5bd78cbed634d/img_065109.png
 https://recap-check.org/
 https://rough-truth-e072.publicftpresend.workers.dev/gemgvdpeix
+https://rupiah155slot.space/
 https://rupiahmahjong2.space/
 https://rupiahtotal10k.online/
 https://rur3c58hk2l6b4wspfaewp.beer/
