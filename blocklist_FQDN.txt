@@ -15986,6 +15986,7 @@ http://103.238.235.250:9999/wj0s.arm64
 http://103.238.235.250:9999/wj0s.arm7
 http://103.238.235.250:9999/wj0s.i686
 http://103.238.235.250:9999/wj0s.sh4
+http://103.249.199.5:53439/i
 http://103.31.103.204:40803/bin.sh
 http://103.31.103.204:40803/i
 http://103.70.165.181:49668/bin.sh
@@ -16001,6 +16002,7 @@ http://104.64.0.199/hiddenbin/Space.mpsl
 http://104.64.0.199/hiddenbin/Space.ppc
 http://104.64.0.199/hiddenbin/Space.sh4
 http://104.64.0.199/hiddenbin/Space.x86_64
+http://105.184.69.68:42333/bin.sh
 http://105.184.8.241:41871/bin.sh
 http://105.186.68.166:35551/bin.sh
 http://105.186.68.166:35551/i
@@ -16036,6 +16038,7 @@ http://112.248.141.165:40560/bin.sh
 http://112.248.185.24:36088/bin.sh
 http://112.248.185.24:36088/i
 http://113.206.97.32:54393/i
+http://113.221.98.30:39278/i
 http://113.230.23.74:47203/bin.sh
 http://113.230.23.74:47203/i
 http://113.230.51.234:35025/bin.sh
@@ -16129,6 +16132,7 @@ http://120.28.189.218:59232/i
 http://120.28.192.219:39732/bin.sh
 http://120.28.195.161:54301/bin.sh
 http://120.28.195.161:54301/i
+http://120.28.215.36:37672/bin.sh
 http://120.43.54.167:46074/i
 http://120.84.212.113:55570/i
 http://120.84.212.206:35060/bin.sh
@@ -16230,6 +16234,8 @@ http://138.226.247.154/session/8ea0e4ef65dd189c
 http://139.135.40.51:47099/Mozi.m
 http://14.205.104.200:56814/Mozi.m
 http://144.48.130.194:47077/Mozi.m
+http://146.103.43.194/bins/arm
+http://146.103.43.194/bins/mpsl
 http://146.66.249.137:55527/i
 http://147.45.116.134/72img_021534.png
 http://148.66.17.122:60003/?h=148.66.17.122&p=60003&t=ws&a=w32&stage=true
@@ -16278,6 +16284,7 @@ http://154.91.180.246:18080/?h=154.91.180.246&p=18080&t=ws&a=l64&stage=true
 http://157.66.146.183:57014/i
 http://160.176.170.101:36032/i
 http://164.163.25.203:58731/i
+http://164.163.26.124:52516/i
 http://165.98.243.83:33127/i
 http://165.98.243.83:57055/i
 http://167.250.158.32:43493/bin.sh
@@ -16509,6 +16516,7 @@ http://216.126.80.56:43357/bin.sh
 http://216.126.80.56:43357/i
 http://216.249.4.20:51801/i
 http://217.60.195.187/st_x86_64
+http://218.16.164.236:37269/bin.sh
 http://218.24.252.208:47504/bin.sh
 http://218.28.150.23:42949/bin.sh
 http://218.90.26.232:42522/bin.sh
@@ -16573,6 +16581,7 @@ http://222.141.40.236:50078/bin.sh
 http://222.141.73.146:57830/i
 http://222.141.97.98:39460/bin.sh
 http://222.141.97.98:39460/i
+http://222.220.145.39:43434/bin.sh
 http://222.220.145.39:43434/i
 http://223.10.5.93:34533/bin.sh
 http://223.10.5.93:34533/i
@@ -16706,6 +16715,7 @@ http://42.59.247.94:45590/bin.sh
 http://42.6.101.155:34345/i
 http://42.6.56.231:34029/i
 http://42.7.122.114:58373/i
+http://42.85.162.250:52853/bin.sh
 http://42.85.162.250:52853/i
 http://42.86.53.125:43824/i
 http://42.87.210.20:57683/i
@@ -16824,6 +16834,7 @@ http://85.137.53.167:24380/bins/telnet/akuma_x64
 http://85.185.55.80:56473/bin.sh
 http://85.185.55.80:56473/i
 http://89.43.223.227:37974/i
+http://91.92.242.236/files-129312398/files/file_146f8720a4894bd8.exe
 http://91.92.242.236/files-129312398/files/file_27539cb69c52484f.exe
 http://91.92.242.236/files-129312398/files/file_4aa3e284d0ae6318.exe
 http://91.92.242.236/files-129312398/files/file_50f8dc1f79af08b7.exe
@@ -16888,6 +16899,10 @@ https://cdn.discordapp.com/attachments/1540151072461553724/1558782952987562024/b
 https://cdn.discordapp.com/attachments/1548811185716068484/1555955351206105219/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8ff57&is=6ac7add7&hm=30ee7fe8b95274195e39d69d6e7cb98ba63a847928ffd36d4a10117f56ece837&
 https://cdn.discordapp.com/attachments/1548811292536610887/1555955159287201872/67client-CrackedByDexter.jar?backend=b2&ex=6ac8ff2a&is=6ac7adaa&hm=9a556ee8f2a04bb6bf7b6e0d48dd9f70c6c11e1956a9c12895ffd3d2051a835f&
 https://cdn.discordapp.com/attachments/1549548390751272981/1555954988667113542/opsec-1.21.11-CrackedByDexter.jar?backend=b2&ex=6ac8ff01&is=6ac7ad81&hm=495621443a4b2ffeaee152ecdd0e6db99a74077c550043c0f6653cda754039a9&
+https://cdn.discordapp.com/attachments/1550498309259657247/1555954844391575632/MVADDON-CrackedByDexter.jar?backend=b2&ex=6ac8fedf&is=6ac7ad5f&hm=040eabcf0360361a39cf6cea01fba5a346c592fcc725489f3112f3ca3f8b284e&
+https://cdn.discordapp.com/attachments/1552380411219288175/1555954669157621871/Ikea_Client-CrackedByDexter.jar?backend=b2&ex=6ac8feb5&is=6ac7ad35&hm=bfdcbbaa3aee72faa061c2ccfa23c4b5d3f4c6640b5e5dd8c3e6d1f0c029d7b6&
+https://cdn.discordapp.com/attachments/1553507058844696606/1555956170961854504/DupemodV2-ByDexter.jar?backend=b2&ex=6ac9001b&is=6ac7ae9b&hm=3fa2bf9e9d1e2e1a2f0922f42e35eae758a67f45aaa2a85fea120ceecf68609a&
+https://cdn.discordapp.com/attachments/1553507130621825175/1555956345495228558/DupeModV1-ByDexter.jar?backend=b2&ex=6ac90045&is=6ac7aec5&hm=d109270946e3f8e1f5c6de54f3c7f5bfed7c79c00c564f28ad2919761c2857eb&
 https://cdn.discordapp.com/attachments/1554373007819014229/1558219073161138186/bundle1.zip?ex=6acaa419&is=6ac95299&hm=fa6648fcec9a979c9d2264ff4bc3876e20722df68a2bcc323ae3486cbeff6f06&
 https://cdn.discordapp.com/attachments/1554893100869230603/1555954067048763453/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8fe25&is=6ac7aca5&hm=d4e0c6b375fa4a495ca11fbd00bca4c21ac78349d84321e29c5a878b1eca76b0&
 https://cdn.discordapp.com/attachments/1554903458677653595/1558784934804725800/bundle_3.zip?ex=6accb319&is=6acb6199&hm=3cc7fdd091847c025b03666b4c269e011bbcb4ab462e51e416d0006915821854&
