@@ -10947,6 +10947,7 @@ openips.cc
 opennic1.eth-services.de
 openproxy.space
 openproxylist.com
+openreader3.online
 opensvr.site
 opentunnel.net
 openv2ray.com
@@ -16601,6 +16602,7 @@ http://27.219.118.7:41917/i
 http://27.37.225.158:33778/i
 http://27.44.145.224:34472/bin.sh
 http://27.44.145.224:34472/i
+http://27.44.146.163:33792/i
 http://36.49.52.140:36933/Mozi.m
 http://36.50.134.86/spc
 http://36.70.140.206:51974/i
