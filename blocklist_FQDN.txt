@@ -16063,6 +16063,7 @@ http://113.53.69.165:38025/i
 http://114.198.242.174:39288/i
 http://114.226.200.81:37474/bin.sh
 http://114.226.200.81:37474/i
+http://115.196.0.230:36365/i
 http://115.199.56.198:50001/bin.sh
 http://115.206.110.121:47845/i
 http://115.207.84.249:33401/i
@@ -16403,6 +16404,7 @@ http://176.65.139.231/bins/morte.arm
 http://176.65.139.231/bins/morte.arm5
 http://176.65.139.231/bins/morte.arm7
 http://176.65.139.231/bins/morte.i686
+http://176.65.139.231/bins/morte.mips
 http://176.65.139.231/bins/morte.ppc
 http://176.65.139.231/bins/morte.sh4
 http://176.65.139.231/bins/morte.spc
@@ -16511,6 +16513,7 @@ http://193.178.158.71/b894jfjw/index.php
 http://193.187.101.209:55899/bin.sh
 http://193.93.228.160:56974/i
 http://196.151.248.162:47591/bin.sh
+http://196.151.248.162:47591/i
 http://196.188.75.58:52115/bin.sh
 http://196.188.75.58:52115/i
 http://196.189.130.28:35644/i
@@ -16567,12 +16570,14 @@ http://219.157.133.197:42036/i
 http://219.157.2.171:43933/i
 http://219.157.52.153:49181/bin.sh
 http://219.157.52.153:49181/i
+http://220.161.100.72:39073/i
 http://220.164.23.33:49708/bin.sh
 http://220.164.23.33:49708/i
 http://220.168.237.96:60522/bin.sh
 http://220.168.237.96:60522/i
 http://220.201.171.252:58022/i
 http://220.202.91.248:55001/bin.sh
+http://220.202.91.248:55001/i
 http://221.1.246.222:45921/bin.sh
 http://221.1.246.222:45921/i
 http://221.13.151.100:57991/i
@@ -16675,6 +16680,7 @@ http://36.70.140.206:51974/i
 http://36.89.252.178:58729/bin.sh
 http://36.89.252.178:58729/i
 http://37.28.177.69:45953/i
+http://37.48.148.108:60557/i
 http://38.253.224.56:8080/hiddenbin/arm7
 http://38.253.224.56:8080/hiddenbin/bot.x86_64
 http://38.253.224.56:8080/hiddenbin/x86_64
@@ -16821,6 +16827,7 @@ http://60.214.23.166:51568/i
 http://60.22.51.222:45629/i
 http://60.22.8.194:38407/i
 http://60.23.236.49:35040/i
+http://60.23.239.46:47895/bin.sh
 http://60.23.239.46:47895/i
 http://60.23.77.13:58315/bin.sh
 http://60.23.77.13:58315/i
@@ -16858,6 +16865,7 @@ http://85.137.53.167:24380/bins/android/akuma_arm64
 http://85.137.53.167:24380/bins/android/akuma_arm7
 http://85.137.53.167:24380/bins/android/akuma_i486
 http://85.137.53.167:24380/bins/android/akuma_i586
+http://85.137.53.167:24380/bins/android/akuma_i686
 http://85.137.53.167:24380/bins/android/akuma_m68k
 http://85.137.53.167:24380/bins/android/akuma_mips
 http://85.137.53.167:24380/bins/android/akuma_mps64
@@ -16896,6 +16904,7 @@ http://94.154.43.26/main_arm
 http://94.154.43.26/main_arm5
 http://94.154.43.26/main_arm6
 http://94.154.43.26/main_arm7
+http://94.154.43.26/main_m68k
 http://94.154.43.26/main_mips
 http://94.154.43.26/main_mpsl
 http://94.154.43.26/main_ppc
@@ -16922,6 +16931,7 @@ http://rvweldedmesh.com:4219/
 http://stanarcservice.com/asset/update.dat
 http://straely.biz:8531/imports
 http://synerfy.biz:6627/messages
+http://trwehop.shop:5627/comments
 http://veled.com.tr/api/webhooks/bf275c79b814f8c5/g-aSnkfbqsjQs_HiPlDNR-9FRJC0sdc-
 http://w5q.eu/eclipse.mips
 http://wp.fujeigroup.com:8888/file/img_220945.png
@@ -16977,6 +16987,7 @@ https://cdn.discordapp.com/attachments/1557133169877192734/1557824344401387601/b
 https://cdn.discordapp.com/attachments/1557133169877192734/1558228090285465730/bundle.zip?ex=6acaac7f&is=6ac95aff&hm=bb44fe8c4acac88ab665d8bc71152b3f45f31e3400264e1c65564af8e85f7d50&
 https://cdn.discordapp.com/attachments/1557133169877192734/1558848607396823131/bundle.zip?ex=6accee66&is=6acb9ce6&hm=5f09ac9e7e84a62635bc25d32c3cb27f24aa00b0c584fce284d914f93291e8ad&
 https://cdn.discordapp.com/attachments/1557944891575762984/1557945395277996133/bundle_2.zip?ex=6ac9a537&is=6ac853b7&hm=6437d45cffc49ae16bc731d5aa1a09e76f71e006877171928c5be1ab33ccb6a5&
+https://cdn.discordapp.com/attachments/1558076945571512441/1558250513563127869/bundle.zip?ex=6acac161&is=6ac96fe1&hm=79b498e5eacc3b365af817340bee9189c40cc8f81e9918bef84d8302872abc83&
 https://cdn.discordapp.com/attachments/1558090546633904308/1558090607027683399/bundle.zip?ex=6aca2c74&is=6ac8daf4&hm=f368654270984309f3f052b7969d1fdafb6fb00f448a68614de3746823cc20a4&
 https://cdn.discordapp.com/attachments/1558100015321317546/1558450520358654023/bundle_2.zip?ex=6acb7ba6&is=6aca2a26&hm=e00f5777b997bfc71b50b385a548d80bb293af88436931c918351cf9ac471c15&
 https://cdn.discordapp.com/attachments/1558100015321317546/1558470943750488164/bundle.zip?ex=6acb8eab&is=6aca3d2b&hm=823d4ec1eb00862e82c5e1faf5a96c73640a9be12593792012549921e2548d60&
@@ -16992,6 +17003,7 @@ https://drive.google.com/uc?export=download&id=14oEkhhftO_xx6X0Db-qpZwUl_arXfhIO
 https://drive.google.com/uc?export=download&id=1CjSD0JhJj42n2yygv_75tmpvl6Uqic4o
 https://drive.google.com/uc?export=download&id=1L_cku7GNkFeUfFiU2VEsvHDZJbSvzJMx
 https://drive.google.com/uc?export=download&id=1_UZcQfkdBH4WncF92tW54H57khybkee4
+https://dttjjkkllzbvesjzndtp.vercel.app/?download=1
 https://ebashim1.com/
 https://ed75a310.infinityindians.pages.dev/ktool.exe
 https://egyoast.cloud/
